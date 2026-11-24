@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two energy levels with half population each and a rotating relative-phase arrow on a unit circle">
+<title>Phase Evolution of a Quantum Superposition</title>
+<desc>Constant energy populations, evolving relative phase.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="46.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Phase Evolution of a Quantum Superposition</text>
+<text x="40.0" y="76.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Constant energy populations, evolving relative phase.</text>
+<line x1="40.0" y1="98.0" x2="920.0" y2="98.0" stroke="#d8e3eb" stroke-width="1" />
+<text x="116.0" y="154.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Energy basis</text>
+<text x="577.0" y="154.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Relative phase</text>
+<line x1="482.0" y1="143.0" x2="482.0" y2="516.0" stroke="#d8e3eb" stroke-width="2" />
+<line x1="105.0" y1="260.0" x2="400.0" y2="260.0" stroke="#1874a8" stroke-width="4" />
+<text x="112.0" y="244.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">E₁ = ℏω</text>
+<text x="342.0" y="244.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start">P = 1/2</text>
+<line x1="105.0" y1="401.0" x2="400.0" y2="401.0" stroke="#1874a8" stroke-width="4" />
+<text x="112.0" y="385.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">E₀ = 0</text>
+<text x="342.0" y="385.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="start">P = 1/2</text>
+<circle cx="691" cy="344" r="126" fill="none" stroke="#d8e3eb" stroke-width="3"/>
+<line x1="546.0" y1="344.0" x2="833.0" y2="344.0" stroke="#d8e3eb" stroke-width="1" />
+<line x1="691.0" y1="486.0" x2="691.0" y2="200.0" stroke="#d8e3eb" stroke-width="1" />
+<line x1="691.0" y1="344.0" x2="760.3" y2="239.4" stroke="#8060a8" stroke-width="5" /><polygon points="760.3,239.42000000000002 751.3,232.42000000000002 751.3,246.42000000000002" fill="#8060a8" transform="rotate(-56.5 760.3 239.42000000000002)"/>
+<text x="770.0" y="222.0" fill="#8060a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">φ = ωt</text>
+<text x="701.0" y="489.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Unit circle</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Sensor calibration line with two reference points and a reading">
+<title>Linear Sensor Calibration</title>
+<desc>Hypothetical reference points and linear conversion</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Linear Sensor Calibration</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">Hypothetical reference points and linear conversion</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<line x1="155.0" y1="178.0" x2="155.0" y2="505.0" stroke="#243747" stroke-width="2"/>
+<line x1="155.0" y1="505.0" x2="835.0" y2="505.0" stroke="#243747" stroke-width="2"/>
+<text x="97.0" y="164.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#243747" text-anchor="start" font-weight="400">U (V)</text>
+<text x="853.0" y="575.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#243747" text-anchor="end" font-weight="400">T (K)</text>
+<polyline points="155.0,445.0 161.8,442.6 168.6,440.2 175.4,437.8 182.2,435.4 189.0,433.0 195.8,430.6 202.6,428.2 209.4,425.8 216.2,423.4 223.0,421.0 229.8,418.6 236.6,416.2 243.4,413.8 250.2,411.4 257.0,409.0 263.8,406.6 270.6,404.2 277.4,401.8 284.2,399.4 291.0,397.0 297.8,394.6 304.6,392.2 311.4,389.8 318.2,387.4 325.0,385.0 331.8,382.6 338.6,380.2 345.4,377.8 352.2,375.4 359.0,373.0 365.8,370.6 372.6,368.2 379.4,365.8 386.2,363.4 393.0,361.0 399.8,358.6 406.6,356.2 413.4,353.8 420.2,351.4 427.0,349.0 433.8,346.6 440.6,344.2 447.4,341.8 454.2,339.4 461.0,337.0 467.8,334.6 474.6,332.2 481.4,329.8 488.2,327.4 495.0,325.0 501.8,322.6 508.6,320.2 515.4,317.8 522.2,315.4 529.0,313.0 535.8,310.6 542.6,308.2 549.4,305.8 556.2,303.4 563.0,301.0 569.8,298.6 576.6,296.2 583.4,293.8 590.2,291.4 597.0,289.0 603.8,286.6 610.6,284.2 617.4,281.8 624.2,279.4 631.0,277.0 637.8,274.6 644.6,272.2 651.4,269.8 658.2,267.4 665.0,265.0 671.8,262.6 678.6,260.2 685.4,257.8 692.2,255.4 699.0,253.0 705.8,250.6 712.6,248.2 719.4,245.8 726.2,243.4 733.0,241.0 739.8,238.6 746.6,236.2 753.4,233.8 760.2,231.4 767.0,229.0 773.8,226.6 780.6,224.2 787.4,221.8 794.2,219.4 801.0,217.0 807.8,214.6 814.6,212.2 821.4,209.8 828.2,207.4 835.0,205.0" stroke="#126da1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="155.0" cy="445.0" r="7" fill="#167a60"/>
+<line x1="155.0" y1="445.0" x2="155.0" y2="505.0" stroke="#d2d8de" stroke-width="1" stroke-dasharray="5 6"/>
+<text x="155.0" y="537.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#243747" text-anchor="middle" font-weight="400">273.15 K</text>
+<text x="167.0" y="431.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#167a60" text-anchor="start" font-weight="400">0.5</text>
+<circle cx="835.0" cy="205.0" r="7" fill="#167a60"/>
+<line x1="835.0" y1="205.0" x2="835.0" y2="505.0" stroke="#d2d8de" stroke-width="1" stroke-dasharray="5 6"/>
+<text x="835.0" y="537.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#243747" text-anchor="middle" font-weight="400">373.15 K</text>
+<text x="847.0" y="191.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#167a60" text-anchor="start" font-weight="400">2.5</text>
+<circle cx="427.0" cy="349.0" r="8" fill="#b45e29"/>
+<line x1="427.0" y1="505.0" x2="427.0" y2="349.0" stroke="#b45e29" stroke-width="2" stroke-dasharray="5 6"/>
+<text x="436.0" y="377.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#b45e29" text-anchor="start" font-weight="400">1.300 V</text>
+<text x="427.0" y="535.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#b45e29" text-anchor="middle" font-weight="400">313.15 K</text>
+<text x="590.0" y="273.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#62717c" text-anchor="start" font-weight="400">Linear teaching model</text>
+<text x="590.0" y="305.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#243747" text-anchor="start" font-weight="400">U = a T + b</text>
+</svg>

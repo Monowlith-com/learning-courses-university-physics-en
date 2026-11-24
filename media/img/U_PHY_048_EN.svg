@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Interval from 9.969 to 10.431 volts with estimate and reference value">
+<title>Confidence Interval and Reference Value</title>
+<desc>Confidence procedure for a mean, not parameter probability</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Confidence Interval and Reference Value</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">Confidence procedure for a mean, not parameter probability</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<line x1="160.0" y1="330.0" x2="818.0" y2="330.0" stroke="#243747" stroke-width="3"/>
+<line x1="299.0" y1="285.0" x2="299.0" y2="375.0" stroke="#167a60" stroke-width="4"/>
+<line x1="679.0" y1="285.0" x2="679.0" y2="375.0" stroke="#167a60" stroke-width="4"/>
+<line x1="299.0" y1="330.0" x2="679.0" y2="330.0" stroke="#167a60" stroke-width="9"/>
+<circle cx="489.0" cy="330.0" r="9" fill="#126da1"/>
+<line x1="324.5" y1="211.0" x2="324.5" y2="443.0" stroke="#b45e29" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="299.0" y="405.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#167a60" text-anchor="middle" font-weight="400">9.969</text>
+<text x="679.0" y="405.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#167a60" text-anchor="middle" font-weight="400">10.431</text>
+<text x="312.5" y="195.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#b45e29" text-anchor="start" font-weight="400">Reference 10.00 V</text>
+<text x="501.0" y="260.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#126da1" text-anchor="start" font-weight="400">Mean 10.20 V</text>
+<text x="485.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#243747" text-anchor="middle" font-weight="700">Two-sided 95% interval</text>
+</svg>

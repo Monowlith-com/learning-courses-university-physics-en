@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg role="img" aria-label="Comparison of allowed occupation numbers for a single fermionic and bosonic mode." xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="396pt" viewBox="0 0 720 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T03:41:08.825486</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 396 
+L 720 396 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 86.4 332.64 
+L 640.8 332.64 
+L 640.8 79.2 
+L 86.4 79.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 140.752941 332.64 
+L 140.752941 79.2 
+" clip-path="url(#pf264609403)" style="fill: none; stroke: #eceef0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mc95575f2a4" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc95575f2a4" x="140.752941" y="332.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="140.752941" y="347.998281" transform="rotate(-0 140.752941 347.998281)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 249.458824 332.64 
+L 249.458824 79.2 
+" clip-path="url(#pf264609403)" style="fill: none; stroke: #eceef0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc95575f2a4" x="249.458824" y="332.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="249.458824" y="347.998281" transform="rotate(-0 249.458824 347.998281)">1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 358.164706 332.64 
+L 358.164706 79.2 
+" clip-path="url(#pf264609403)" style="fill: none; stroke: #eceef0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mc95575f2a4" x="358.164706" y="332.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="358.164706" y="347.998281" transform="rotate(-0 358.164706 347.998281)">2</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 466.870588 332.64 
+L 466.870588 79.2 
+" clip-path="url(#pf264609403)" style="fill: none; stroke: #eceef0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mc95575f2a4" x="466.870588" y="332.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="466.870588" y="347.998281" transform="rotate(-0 466.870588 347.998281)">3</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 575.576471 332.64 
+L 575.576471 79.2 
+" clip-path="url(#pf264609403)" style="fill: none; stroke: #eceef0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc95575f2a4" x="575.576471" y="332.64" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="575.576471" y="347.998281" transform="rotate(-0 575.576471 347.998281)">4</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle" x="363.6" y="362.644219" transform="rotate(-0 363.6 362.644219)">Occupation number n</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="82.9" y="240.686727" transform="rotate(-0 82.9 240.686727)">Fermion</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="82.9" y="144.554313" transform="rotate(-0 82.9 144.554313)">Boson</text>
+     </g>
+    </g>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m67003f7dc8" d="M -7.245688 7.245688 
+L 7.245688 7.245688 
+L 7.245688 -7.245688 
+L -7.245688 -7.245688 
+z
+" style="stroke: #1b6978"/>
+    </defs>
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="140.752941" y="140.375172" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="140.752941" y="236.507586" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="249.458824" y="140.375172" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="249.458824" y="236.507586" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="358.164706" y="140.375172" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="mc000fbd31c" d="M -7.245688 7.245688 
+L 7.245688 -7.245688 
+M -7.245688 -7.245688 
+L 7.245688 7.245688 
+" style="stroke: #a33f44; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#mc000fbd31c" x="358.164706" y="236.507586" style="fill: #a33f44; stroke: #a33f44; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="466.870588" y="140.375172" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#mc000fbd31c" x="466.870588" y="236.507586" style="fill: #a33f44; stroke: #a33f44; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#m67003f7dc8" x="575.576471" y="140.375172" style="fill: #1b6978; stroke: #1b6978"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#pf264609403)">
+     <use xlink:href="#mc000fbd31c" x="575.576471" y="236.507586" style="fill: #a33f44; stroke: #a33f44; stroke-width: 2"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_13">
+   <path d="M 54 44.352 
+L 666 44.352 
+" style="fill: none; stroke: #d4d7db; stroke-linecap: square"/>
+  </g>
+  <g id="text_9">
+   <text style="font-weight: 600; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #181b21" x="54" y="29.7" transform="rotate(-0 54 29.7)">Identical particles</text>
+  </g>
+  <g id="text_10">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #646b73" x="54" y="373.428" transform="rotate(-0 54 373.428)">Original illustration · schematic model</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf264609403">
+   <rect x="86.4" y="79.2" width="554.4" height="253.44"/>
+  </clipPath>
+ </defs>
+</svg>

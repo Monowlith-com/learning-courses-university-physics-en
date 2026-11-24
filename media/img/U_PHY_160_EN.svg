@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Schematic precession cone with B0 axis, tilted moment vector and transverse B1 drive">
+<title>Larmor Precession of a Magnetic Moment</title>
+<desc>Precession about static field B0 and resonant excitation by B1.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#fff" stroke="#fff" stroke-width="0" rx="0"/>
+<text x="42.0" y="47.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="26" text-anchor="start">Larmor Precession of a Magnetic Moment</text>
+<text x="42.0" y="79.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">Precession about static field B0 and resonant excitation by B1.</text>
+<line x1="42.0" y1="106.0" x2="918.0" y2="106.0" stroke="#dce5e8" stroke-width="1"/>
+<line x1="463.0" y1="487.0" x2="463.0" y2="175.0" stroke="#086d92" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="474.0" y="191.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="25" text-anchor="start">B₀</text>
+<text x="464.0" y="513.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="middle">z axis</text>
+<polyline points="463.0,480.0 353.0,270.0" fill="none" stroke="#dce5e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="463.0,480.0 572.0,270.0" fill="none" stroke="#dce5e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="573.0,270.0 572.8,272.5 572.1,275.0 571.1,277.5 569.5,279.9 567.6,282.4 565.3,284.7 562.5,287.0 559.4,289.3 555.9,291.4 552.0,293.5 547.8,295.5 543.2,297.4 538.3,299.2 533.1,300.8 527.7,302.4 521.9,303.8 516.0,305.1 509.8,306.2 503.5,307.2 497.0,308.0 490.4,308.7 483.6,309.3 476.8,309.7 469.9,309.9 463.0,310.0 456.1,309.9 449.2,309.7 442.4,309.3 435.6,308.7 429.0,308.0 422.5,307.2 416.2,306.2 410.0,305.1 404.1,303.8 398.3,302.4 392.9,300.8 387.7,299.2 382.8,297.4 378.2,295.5 374.0,293.5 370.1,291.4 366.6,289.3 363.5,287.0 360.7,284.7 358.4,282.4 356.5,279.9 354.9,277.5 353.9,275.0 353.2,272.5 353.0,270.0 353.2,267.5 353.9,265.0 354.9,262.5 356.5,260.1 358.4,257.6 360.7,255.3 363.5,253.0 366.6,250.7 370.1,248.6 374.0,246.5 378.2,244.5 382.8,242.6 387.7,240.8 392.9,239.2 398.3,237.6 404.1,236.2 410.0,234.9 416.2,233.8 422.5,232.8 429.0,232.0 435.6,231.3 442.4,230.7 449.2,230.3 456.1,230.1 463.0,230.0 469.9,230.1 476.8,230.3 483.6,230.7 490.4,231.3 497.0,232.0 503.5,232.8 509.8,233.8 516.0,234.9 521.9,236.2 527.7,237.6 533.1,239.2 538.3,240.8 543.2,242.6 547.8,244.5 552.0,246.5 555.9,248.6 559.4,250.7 562.5,253.0 565.3,255.3 567.6,257.6 569.5,260.1 571.1,262.5 572.1,265.0 572.8,267.5 573.0,270.0" fill="none" stroke="#b96232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="463.0" y1="480.0" x2="543.0" y2="244.0" stroke="#237f65" stroke-width="5" marker-end="url(#arrow)"/>
+<text x="551.0" y="237.0" fill="#237f65" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="25" text-anchor="start">μ</text>
+<line x1="463.0" y1="480.0" x2="666.0" y2="480.0" stroke="#7363a3" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="673.0" y="485.0" fill="#7363a3" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="23" text-anchor="start">B₁</text>
+<text x="464.0" y="555.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="26" text-anchor="middle">ω₀ = |γ|B₀</text>
+<text x="615.0" y="345.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="17" text-anchor="start">Precession</text>
+<text x="585.0" y="382.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">Cone</text>
+</svg>

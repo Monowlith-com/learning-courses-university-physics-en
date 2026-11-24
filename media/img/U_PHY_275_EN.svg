@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Table of quarks and leptons by generation plus gauge bosons and Higgs">
+<title>Standard Model Particle Families</title>
+<desc>Three fermion generations and mediated interactions</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="#ffffff"/>
+<text x="40.0" y="46.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#1b2f44" text-anchor="start" font-weight="700">Standard Model Particle Families</text>
+<text x="40.0" y="77.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#60788a" text-anchor="start" font-weight="400">Three fermion generations and mediated interactions</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#cbd9e3" stroke-width="2"/>
+<text x="140.0" y="145.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1b2f44" text-anchor="middle" font-weight="700">Generation</text>
+<rect x="196.0" y="163.0" width="192.0" height="70.0" rx="9" fill="#dceef7" stroke="#1575a9"/>
+<text x="292.0" y="194.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#1575a9" text-anchor="middle" font-weight="700">u / d</text>
+<text x="292.0" y="221.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Quarks</text>
+<rect x="196.0" y="248.0" width="192.0" height="70.0" rx="9" fill="#e2f3e9" stroke="#168270"/>
+<text x="292.0" y="280.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#168270" text-anchor="middle" font-weight="700">e / νe</text>
+<text x="292.0" y="306.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Leptons</text>
+<text x="292.0" y="147.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#60788a" text-anchor="middle" font-weight="400">1</text>
+<rect x="408.0" y="163.0" width="192.0" height="70.0" rx="9" fill="#dceef7" stroke="#1575a9"/>
+<text x="504.0" y="194.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#1575a9" text-anchor="middle" font-weight="700">c / s</text>
+<text x="504.0" y="221.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Quarks</text>
+<rect x="408.0" y="248.0" width="192.0" height="70.0" rx="9" fill="#e2f3e9" stroke="#168270"/>
+<text x="504.0" y="280.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#168270" text-anchor="middle" font-weight="700">μ / νμ</text>
+<text x="504.0" y="306.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Leptons</text>
+<text x="504.0" y="147.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#60788a" text-anchor="middle" font-weight="400">2</text>
+<rect x="620.0" y="163.0" width="192.0" height="70.0" rx="9" fill="#dceef7" stroke="#1575a9"/>
+<text x="716.0" y="194.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#1575a9" text-anchor="middle" font-weight="700">t / b</text>
+<text x="716.0" y="221.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Quarks</text>
+<rect x="620.0" y="248.0" width="192.0" height="70.0" rx="9" fill="#e2f3e9" stroke="#168270"/>
+<text x="716.0" y="280.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#168270" text-anchor="middle" font-weight="700">τ / ντ</text>
+<text x="716.0" y="306.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#60788a" text-anchor="middle" font-weight="400">Leptons</text>
+<text x="716.0" y="147.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#60788a" text-anchor="middle" font-weight="400">3</text>
+<text x="480.0" y="378.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#1b2f44" text-anchor="middle" font-weight="700">Gauge bosons</text>
+<rect x="166.0" y="404.0" width="202.0" height="61.0" rx="9" fill="#f4f8fc" stroke="#1575a9"/>
+<text x="267.0" y="444.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#1575a9" text-anchor="middle" font-weight="700">γ</text>
+<rect x="389.0" y="404.0" width="202.0" height="61.0" rx="9" fill="#f4f8fc" stroke="#7952a5"/>
+<text x="490.0" y="444.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#7952a5" text-anchor="middle" font-weight="700">W± / Z⁰</text>
+<rect x="612.0" y="404.0" width="202.0" height="61.0" rx="9" fill="#f4f8fc" stroke="#ca6732"/>
+<text x="713.0" y="444.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#ca6732" text-anchor="middle" font-weight="700">8g</text>
+<rect x="338.0" y="498.0" width="284.0" height="59.0" rx="9" fill="#f2e9f7" stroke="#7952a5"/>
+<text x="480.0" y="535.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#7952a5" text-anchor="middle" font-weight="700">Higgs boson (H)</text>
+</svg>

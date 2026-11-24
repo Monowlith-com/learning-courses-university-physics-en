@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img" aria-label="Circular orbit of two vectors related by a rotation through an angle.">
+<rect x="0" y="0" width="900" height="450" rx="0" fill="#fff" stroke="none" stroke-width="1"/>
+<text x="42.0" y="50.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#223547" text-anchor="start">Continuous rotation</text>
+<line x1="42.00" y1="68.00" x2="858.00" y2="68.00" stroke="#cbd5df" stroke-width="1"/>
+<circle cx="380" cy="278" r="130" fill="none" stroke="#becdd8" stroke-width="2"/>
+<circle cx="380" cy="278" r="4" fill="#223547" stroke="#223547" stroke-width="2"/>
+<line x1="380.00" y1="278.00" x2="510.00" y2="278.00" stroke="#24659b" stroke-width="3"/><polygon points="510.0,278.0 499.1,283.0 499.1,273.0" fill="#24659b"/>
+<line x1="380.00" y1="278.00" x2="455.62" y2="172.26" stroke="#bf642b" stroke-width="3"/><polygon points="455.6,172.3 453.3,184.0 445.2,178.2" fill="#bf642b"/>
+<polyline fill="none" points="434.00,278.00 433.97,276.29 433.89,274.58 433.76,272.88 433.57,271.18 433.32,269.49 433.03,267.80 432.68,266.13 432.28,264.47 431.82,262.82 431.32,261.18 430.76,259.57 430.15,257.97 429.49,256.39 428.78,254.84 428.02,253.30 427.22,251.80 426.36,250.31 425.46,248.86 424.52,247.44 423.53,246.04 422.49,244.68 421.42,243.35 420.30,242.06 419.14,240.80 417.94,239.58 416.71,238.40 415.44,237.25 414.13,236.15 412.79,235.09 411.41,234.08" stroke="#247e80" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="445.0" y="255.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" fill="#247e80" text-anchor="start">θ</text>
+<text x="630.0" y="295.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#24659b" text-anchor="start">Initial vector</text>
+<text x="570.0" y="145.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#bf642b" text-anchor="start">Rotated vector</text>
+<text x="450.0" y="433.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" fill="#223547" text-anchor="middle">The group action is a rotation</text>
+</svg>

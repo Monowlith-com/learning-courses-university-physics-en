@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Central-difference errors for sin(x) at two step sizes with a second-order reference.">
+<title>Error reduction when grid spacing is halved</title>
+<desc>Central-difference errors for sin(x) at two step sizes with a second-order reference.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Error reduction when grid spacing is halved</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">Central-difference errors for sin(x) at two step sizes with a second-order reference.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<line x1="180" y1="165" x2="180" y2="485" stroke="#263746" stroke-width="2"/>
+<line x1="180" y1="485" x2="830" y2="485" stroke="#263746" stroke-width="2"/>
+<text x="197" y="152" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#263746" text-anchor="start" font-weight="400">Absolute error</text>
+<text x="515" y="559" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="middle" font-weight="400">Step size h</text>
+<polyline fill="none" stroke="#176b9b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" points="285.0,400.0 720.0,220.0"/>
+<circle cx="285" cy="400" r="9" fill="#b96b2f"/>
+<circle cx="720" cy="220" r="9" fill="#257a56"/>
+<text x="285" y="427" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">h = 0.2</text>
+<text x="720" y="193" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">h = 0.4</text>
+<text x="285" y="468" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="middle" font-weight="400">e = 0.00665</text>
+<text x="720" y="252" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="middle" font-weight="400">e = 0.02645</text>
+<text x="530" y="318" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#176b9b" text-anchor="middle" font-weight="400">Error ratio ≈ 4</text>
+</svg>

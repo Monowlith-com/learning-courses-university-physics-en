@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Four separated nucleons and a bound helium nucleus; energy difference marked as binding energy">
+<title>Nucleons and Binding Energy</title>
+<desc>Binding lowers the total rest energy.</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="#ffffff"/>
+<text x="40.0" y="46.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#1b2f44" text-anchor="start" font-weight="700">Nucleons and Binding Energy</text>
+<text x="40.0" y="77.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#60788a" text-anchor="start" font-weight="400">Binding lowers the total rest energy.</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#cbd9e3" stroke-width="2"/>
+<text x="240.0" y="151.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#1575a9" text-anchor="middle" font-weight="700">Separated nucleons</text>
+<text x="708.0" y="151.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#168270" text-anchor="middle" font-weight="700">Bound nucleus</text>
+<line x1="483.0" y1="146.0" x2="483.0" y2="523.0" stroke="#cbd9e3" stroke-width="2"/>
+<circle cx="177.0" cy="252.0" r="37.0" fill="#1575a9" stroke="none" stroke-width="1"/>
+<text x="177.0" y="260.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">p</text>
+<circle cx="301.0" cy="252.0" r="37.0" fill="#1575a9" stroke="none" stroke-width="1"/>
+<text x="301.0" y="260.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">p</text>
+<circle cx="177.0" cy="392.0" r="37.0" fill="#ca6732" stroke="none" stroke-width="1"/>
+<text x="177.0" y="400.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">n</text>
+<circle cx="301.0" cy="392.0" r="37.0" fill="#ca6732" stroke="none" stroke-width="1"/>
+<text x="301.0" y="400.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="white" text-anchor="middle" font-weight="700">n</text>
+<circle cx="676.0" cy="289.0" r="39.0" fill="#1575a9" stroke="none" stroke-width="1"/>
+<text x="676.0" y="296.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="700">p</text>
+<circle cx="742.0" cy="289.0" r="39.0" fill="#1575a9" stroke="none" stroke-width="1"/>
+<text x="742.0" y="296.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="700">p</text>
+<circle cx="676.0" cy="353.0" r="39.0" fill="#ca6732" stroke="none" stroke-width="1"/>
+<text x="676.0" y="360.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="700">n</text>
+<circle cx="742.0" cy="353.0" r="39.0" fill="#ca6732" stroke="none" stroke-width="1"/>
+<text x="742.0" y="360.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="white" text-anchor="middle" font-weight="700">n</text>
+<text x="238.0" y="503.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#60788a" text-anchor="middle" font-weight="400">Higher rest energy</text>
+<text x="706.0" y="503.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#60788a" text-anchor="middle" font-weight="400">Lower rest energy</text>
+<line x1="410.0" y1="211.0" x2="549.0" y2="211.0" stroke="#168270" stroke-width="3"/><polyline points="538.4,216.5 549.0,211.0 538.4,205.5" fill="none" stroke="#168270" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="480.0" y="196.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#168270" text-anchor="middle" font-weight="700">B = Δm c²</text>
+<text x="703.0" y="426.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#1b2f44" text-anchor="middle" font-weight="400">⁴He</text>
+</svg>

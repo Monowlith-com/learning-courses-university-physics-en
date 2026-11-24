@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Comparing Divergence and Curl">
+<title>Comparing Divergence and Curl</title>
+<desc>Source at left; rotational field at right</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Comparing Divergence and Curl</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Source at left; rotational field at right</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<circle cx="257.0" cy="340.0" r="132.0" fill="none" stroke="#e0e8ed" stroke-width="2"/>
+<text x="257.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#25313b" text-anchor="middle" font-weight="700">Source</text>
+<line x1="315.0" y1="340.0" x2="360.0" y2="340.0" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="298.0" y1="381.0" x2="329.8" y2="412.8" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="257.0" y1="398.0" x2="257.0" y2="443.0" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="216.0" y1="381.0" x2="184.2" y2="412.8" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="199.0" y1="340.0" x2="154.0" y2="340.0" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="216.0" y1="299.0" x2="184.2" y2="267.2" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="257.0" y1="282.0" x2="257.0" y2="237.0" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="298.0" y1="299.0" x2="329.8" y2="267.2" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<text x="257.0" y="515.0" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#25313b" text-anchor="middle" font-weight="400">div F = 2</text>
+<text x="257.0" y="548.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#6a7580" text-anchor="middle" font-weight="400">curl F = 0</text>
+<circle cx="705.0" cy="340.0" r="132.0" fill="none" stroke="#e0e8ed" stroke-width="2"/>
+<text x="705.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#25313b" text-anchor="middle" font-weight="700">Rotation</text>
+<line x1="763.0" y1="340.0" x2="763.0" y2="385.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="746.0" y1="381.0" x2="714.2" y2="412.8" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="705.0" y1="398.0" x2="660.0" y2="398.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="664.0" y1="381.0" x2="632.2" y2="349.2" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="647.0" y1="340.0" x2="647.0" y2="295.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="664.0" y1="299.0" x2="695.8" y2="267.2" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="705.0" y1="282.0" x2="750.0" y2="282.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="746.0" y1="299.0" x2="777.8" y2="330.8" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<text x="705.0" y="515.0" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#25313b" text-anchor="middle" font-weight="400">div G = 0</text>
+<text x="705.0" y="548.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#6a7580" text-anchor="middle" font-weight="400">curl G = 2 e_z</text>
+</svg>

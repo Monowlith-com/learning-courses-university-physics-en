@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Three observations, their fitted line and vertical residuals.">
+<title>Linear fit and residuals</title>
+<desc>Three observations, their fitted line and vertical residuals.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Linear fit and residuals</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">Three observations, their fitted line and vertical residuals.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<line x1="180" y1="152" x2="180" y2="478" stroke="#263746" stroke-width="2"/>
+<line x1="180" y1="478" x2="820" y2="478" stroke="#263746" stroke-width="2"/>
+<polyline fill="none" stroke="#176b9b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" points="260.0,426.0 740.0,186.0"/>
+<line x1="260" y1="424.0" x2="260" y2="425.9999998" stroke="#b24950" stroke-width="4"/>
+<circle cx="260" cy="424.0" r="8" fill="#b96b2f"/>
+<text x="260" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">0</text>
+<line x1="500" y1="310" x2="500" y2="305.9999998" stroke="#b24950" stroke-width="4"/>
+<circle cx="500" cy="310" r="8" fill="#b96b2f"/>
+<text x="500" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">1</text>
+<line x1="740" y1="184.0" x2="740" y2="185.9999998" stroke="#b24950" stroke-width="4"/>
+<circle cx="740" cy="184.0" r="8" fill="#b96b2f"/>
+<text x="740" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">2</text>
+<text x="500" y="561" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="400">x (calibrated input)</text>
+<text x="180" y="130" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="start" font-weight="400">Measured y</text>
+<text x="540" y="171" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#263746" text-anchor="middle" font-weight="400">Fit and residuals</text>
+<line x1="540" y1="192" x2="640" y2="192" stroke="#176b9b" stroke-width="3"/>
+<line x1="540" y1="220" x2="640" y2="220" stroke="#b24950" stroke-width="3"/>
+<text x="652" y="198" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#263746" text-anchor="start" font-weight="400">Fit</text>
+<text x="652" y="226" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#263746" text-anchor="start" font-weight="400">Residual</text>
+</svg>

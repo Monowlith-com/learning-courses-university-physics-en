@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Comparison of exact sum one and naïve floating-point sum zero">
+<title>Loss of Significance in Summation</title>
+<desc>Exact and floating-point sum of a test sequence</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white" stroke-width="2"/>
+<text x="36.0" y="49.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#253746" text-anchor="start" font-weight="700">Loss of Significance in Summation</text>
+<text x="36.0" y="80.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#697683" text-anchor="start" font-weight="400">Exact and floating-point sum of a test sequence</text>
+<line x1="36.00" y1="100.00" x2="924.00" y2="100.00" stroke="#d7dee3" stroke-width="2"/>
+<text x="100.0" y="160.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#253746" text-anchor="start" font-weight="700">Floating-point evaluation</text>
+<rect x="95" y="197" width="330" height="65" rx="8" fill="#edf3f6" stroke="#d7dee3" stroke-width="2"/>
+<text x="260.0" y="238.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#253746" text-anchor="middle" font-weight="400">(10¹⁶ + 1) − 10¹⁶</text>
+<line x1="430.00" y1="230.00" x2="508.00" y2="230.00" stroke="#1573a6" stroke-width="3"/><polyline points="496.47,236.00 508.00,230.00 496.47,224.00" fill="none" stroke="#1573a6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="520" y="185" width="340" height="91" rx="8" fill="#fff2ee" stroke="#b76331" stroke-width="2"/>
+<text x="690.0" y="222.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#b76331" text-anchor="middle" font-weight="400">Naïve sum</text>
+<text x="690.0" y="254.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" fill="#b76331" text-anchor="middle" font-weight="700">0</text>
+<rect x="95" y="338" width="330" height="65" rx="8" fill="#eaf4ef" stroke="#218260" stroke-width="2"/>
+<text x="260.0" y="379.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#253746" text-anchor="middle" font-weight="400">∑ exact = 1</text>
+<line x1="430.00" y1="375.00" x2="508.00" y2="375.00" stroke="#1573a6" stroke-width="3"/><polyline points="496.47,381.00 508.00,375.00 496.47,369.00" fill="none" stroke="#1573a6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="520" y="326" width="340" height="90" rx="8" fill="#eaf4ef" stroke="#218260" stroke-width="2"/>
+<text x="690.0" y="367.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#218260" text-anchor="middle" font-weight="400">Exact value</text>
+<text x="690.0" y="399.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" fill="#218260" text-anchor="middle" font-weight="700">1</text>
+<text x="487.0" y="491.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#697683" text-anchor="middle" font-weight="400">Intermediate rounding matters</text>
+<text x="487.0" y="544.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#253746" text-anchor="middle" font-weight="400">math.fsum([1e16, 1, -1e16]) = 1.0</text>
+</svg>

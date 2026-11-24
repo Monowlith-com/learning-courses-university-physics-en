@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Model curve for inverse pressure dependence at fixed temperature and molecular size.">
+<title>Mean free path as pressure falls</title>
+<desc>Model curve for inverse pressure dependence at fixed temperature and molecular size.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Mean free path as pressure falls</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">Model curve for inverse pressure dependence at fixed temperature and molecular size.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<line x1="145" y1="147" x2="145" y2="481" stroke="#263746" stroke-width="2"/>
+<line x1="145" y1="481" x2="820" y2="481" stroke="#263746" stroke-width="2"/>
+<line x1="175" y1="172" x2="175" y2="481" stroke="#d9dfe4" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="175" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">10^-4</text>
+<text x="130" y="186" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#263746" text-anchor="end" font-weight="400">68.1 m</text>
+<line x1="383" y1="172" x2="383" y2="481" stroke="#d9dfe4" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="383" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">10^-3</text>
+<text x="130" y="270" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#263746" text-anchor="end" font-weight="400">6.81 m</text>
+<line x1="591" y1="172" x2="591" y2="481" stroke="#d9dfe4" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="591" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">10^-2</text>
+<text x="130" y="354" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#263746" text-anchor="end" font-weight="400">0.681 m</text>
+<line x1="799" y1="172" x2="799" y2="481" stroke="#d9dfe4" stroke-width="1" stroke-dasharray="4 6"/>
+<text x="799" y="516" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">10^-1</text>
+<text x="130" y="438" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" fill="#263746" text-anchor="end" font-weight="400">0.0681 m</text>
+<polyline fill="none" stroke="#176b9b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" points="175.0,180.0 383.0,264.0 591.0,348.0 799.0,432.0"/>
+<circle cx="175" cy="180" r="7" fill="#176b9b"/>
+<circle cx="383" cy="264" r="7" fill="#176b9b"/>
+<circle cx="591" cy="348" r="7" fill="#176b9b"/>
+<circle cx="799" cy="432" r="7" fill="#176b9b"/>
+<text x="492" y="560" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="middle" font-weight="400">Pressure p (Pa, log spacing)</text>
+<text x="165" y="147" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="start" font-weight="400">Mean free path</text>
+</svg>

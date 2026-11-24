@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two nine-point lattices with primitive vectors a and b; direct and reciprocal lattice axes are labeled separately">
+<title>Direct and Reciprocal Crystal Lattice</title>
+<desc>Point spacings use different physical units.</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="48.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Direct and Reciprocal Crystal Lattice</text>
+<text x="40.0" y="79.0" fill="#5a7183" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Point spacings use different physical units.</text>
+<line x1="40.0" y1="99.0" x2="920.0" y2="99.0" stroke="#ccd9e3" stroke-width="1" />
+<text x="240.0" y="155.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">Direct space</text>
+<text x="714.0" y="155.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">Reciprocal space</text>
+<line x1="481.0" y1="143.0" x2="481.0" y2="510.0" stroke="#ccd9e3" stroke-width="2" />
+<circle cx="126.0" cy="250.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="231.0" cy="250.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="336.0" cy="250.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="126.0" cy="334.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="231.0" cy="334.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="336.0" cy="334.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="126.0" cy="418.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="231.0" cy="418.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="336.0" cy="418.0" r="6.4" fill="#1575a9" stroke="none" stroke-width="1"/>
+<circle cx="612.0" cy="250.0" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="694.0" cy="250.0" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="776.0" cy="250.0" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="612.0" cy="315.6" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="694.0" cy="315.6" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="776.0" cy="315.6" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="612.0" cy="381.2" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="694.0" cy="381.2" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<circle cx="776.0" cy="381.2" r="6.4" fill="#d87336" stroke="none" stroke-width="1"/>
+<line x1="126.0" y1="250.0" x2="231.0" y2="250.0" stroke="#1575a9" stroke-width="4" />
+<line x1="126.0" y1="250.0" x2="126.0" y2="334.0" stroke="#1575a9" stroke-width="4" />
+<text x="179.0" y="237.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">a₁</text>
+<text x="113.0" y="301.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">a₂</text>
+<line x1="612.0" y1="250.0" x2="694.0" y2="250.0" stroke="#d87336" stroke-width="4" />
+<line x1="612.0" y1="250.0" x2="612.0" y2="316.0" stroke="#d87336" stroke-width="4" />
+<text x="653.0" y="237.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">b₁</text>
+<text x="600.0" y="292.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">b₂</text>
+<text x="235.0" y="540.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Length: a</text>
+<text x="717.0" y="540.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">Wave number: 2π/a</text>
+</svg>

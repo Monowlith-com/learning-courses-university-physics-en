@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Rectangle in original phase space and equal-area parallelogram in transformed phase space">
+<title>Canonical Phase-Space Shear</title>
+<desc>A rectangle becomes an equal-area parallelogram.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#096b85"/></marker></defs>
+<rect width="960" height="600" fill="white"/>
+<text x="42.00" y="47.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="start" font-weight="700" fill="#233241">Canonical Phase-Space Shear</text>
+<text x="42.00" y="77.00" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#65717c">A rectangle becomes an equal-area parallelogram.</text>
+<line x1="42.00" y1="104.00" x2="918.00" y2="104.00" stroke="#bcc7cc" stroke-width="1"/>
+<line x1="110.00" y1="345.00" x2="459.00" y2="345.00" stroke="#233241" stroke-width="2"/>
+<line x1="285.00" y1="495.00" x2="285.00" y2="180.00" stroke="#233241" stroke-width="2"/>
+<polyline points="205.00,280.00 360.00,280.00 360.00,415.00 205.00,415.00 205.00,280.00" stroke="#096b85" stroke-width="3" fill="#e8f0f0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="133.00" y="173.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#233241">Before (q,p)</text>
+<text x="450.00" y="373.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="end" font-weight="400" fill="#233241">q</text>
+<text x="267.00" y="195.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#233241">p</text>
+<line x1="514.00" y1="345.00" x2="863.00" y2="345.00" stroke="#233241" stroke-width="2"/>
+<line x1="689.00" y1="495.00" x2="689.00" y2="180.00" stroke="#233241" stroke-width="2"/>
+<polyline points="609.00,317.60 764.00,244.75 764.00,379.75 609.00,452.60 609.00,317.60" stroke="#c66938" stroke-width="3" fill="#e8f0f0" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="537.00" y="173.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#233241">After (Q,P)</text>
+<text x="854.00" y="373.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="end" font-weight="400" fill="#233241">Q</text>
+<text x="671.00" y="195.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#233241">P</text>
+<text x="475.00" y="552.00" font-family="Arial,Helvetica,sans-serif" font-size="23" text-anchor="middle" font-weight="400" fill="#096b85">Same area, different shape</text>
+</svg>

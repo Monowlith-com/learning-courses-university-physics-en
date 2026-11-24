@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two circular Fermi contours with a weak-field displaced occupation on the right">
+<title>Fermi Sphere and Shifted Occupation</title>
+<desc>Section through an occupied Fermi sphere in k-space.</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="48.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Fermi Sphere and Shifted Occupation</text>
+<text x="40.0" y="79.0" fill="#5a7183" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Section through an occupied Fermi sphere in k-space.</text>
+<line x1="40.0" y1="99.0" x2="920.0" y2="99.0" stroke="#ccd9e3" stroke-width="1" />
+<text x="252.0" y="151.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">Equilibrium</text>
+<text x="722.0" y="151.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="middle">Weak field</text>
+<line x1="478.0" y1="142.0" x2="478.0" y2="525.0" stroke="#ccd9e3" stroke-width="2" />
+<line x1="85.0" y1="344.0" x2="418.0" y2="344.0" stroke="#ccd9e3" stroke-width="1" />
+<line x1="250.0" y1="515.0" x2="250.0" y2="175.0" stroke="#ccd9e3" stroke-width="1" />
+<line x1="553.0" y1="344.0" x2="886.0" y2="344.0" stroke="#ccd9e3" stroke-width="1" />
+<line x1="718.0" y1="515.0" x2="718.0" y2="175.0" stroke="#ccd9e3" stroke-width="1" />
+<circle cx="250.0" cy="344.0" r="135.0" fill="#d4eaf4" stroke="#1575a9" stroke-width="3"/>
+<circle cx="738.0" cy="344.0" r="135.0" fill="#ffe9dd" stroke="#d87336" stroke-width="3"/>
+<circle cx="718.0" cy="344.0" r="135.0" fill="none" stroke="#5a7183" stroke-width="1"/>
+<line x1="250.0" y1="344.0" x2="384.0" y2="344.0" stroke="#1575a9" stroke-width="3" />
+<text x="313.0" y="331.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="middle">kF</text>
+<line x1="738.0" y1="344.0" x2="738.0" y2="480.0" stroke="#ccd9e3" stroke-width="1" />
+<text x="735.0" y="553.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">Δk</text>
+<text x="253.0" y="552.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="middle">kx</text>
+</svg>

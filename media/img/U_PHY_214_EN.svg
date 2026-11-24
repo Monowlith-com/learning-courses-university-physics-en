@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two panels showing photon absorption at a metal surface and a photon scattering through an angle">
+<title>Photoemission and Compton Scattering</title>
+<desc>Energy threshold at a metal and photon scattering by an electron.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#fff" stroke="#fff" stroke-width="0" rx="0"/>
+<text x="42.0" y="47.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="26" text-anchor="start">Photoemission and Compton Scattering</text>
+<text x="42.0" y="79.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">Energy threshold at a metal and photon scattering by an electron.</text>
+<line x1="42.0" y1="106.0" x2="918.0" y2="106.0" stroke="#dce5e8" stroke-width="1"/>
+<line x1="483.0" y1="140.0" x2="483.0" y2="525.0" stroke="#dce5e8" stroke-width="2"/>
+<text x="80.0" y="158.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="20" text-anchor="start">Photoelectric effect</text>
+<text x="525.0" y="158.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="20" text-anchor="start">Compton scattering</text>
+<rect x="115" y="341" width="290" height="103" fill="#e3edf1" stroke="#dce5e8" stroke-width="1" rx="5"/>
+<text x="260.0" y="468.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="20" text-anchor="middle">Metal</text>
+<line x1="155.0" y1="201.0" x2="260.0" y2="331.0" stroke="#b96232" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="128.0" y="198.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="21" text-anchor="start">hν</text>
+<line x1="260.0" y1="335.0" x2="355.0" y2="222.0" stroke="#086d92" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="351.0" y="211.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="22" text-anchor="start">e⁻</text>
+<text x="270.0" y="523.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="22" text-anchor="middle">hν = W + K</text>
+<circle cx="690" cy="340" r="12" fill="#f2f7f7" stroke="#086d92" stroke-width="2"/>
+<text x="705.0" y="363.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="17" text-anchor="start">e⁻</text>
+<line x1="551.0" y1="340.0" x2="673.0" y2="340.0" stroke="#b96232" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="559.0" y="322.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">λ</text>
+<line x1="697.0" y1="331.0" x2="846.0" y2="212.0" stroke="#086d92" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="847.0" y="201.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">λ′</text>
+<line x1="700.0" y1="347.0" x2="760.0" y2="430.0" stroke="#7363a3" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="765.0" y="451.0" fill="#7363a3" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="18" text-anchor="start">Recoil</text>
+<text x="753.0" y="320.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="23" text-anchor="start">θ</text>
+<text x="707.0" y="523.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="20" text-anchor="middle">Δλ = λC (1 − cos θ)</text>
+</svg>

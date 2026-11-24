@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two spin-basis amplitudes √3/2 and 1/2, alongside probabilities of 75 and 25 percent">
+<title>Measurement Probabilities of a Spin-½ State</title>
+<desc>Amplitudes differ from squared probabilities.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="46.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Measurement Probabilities of a Spin-½ State</text>
+<text x="40.0" y="76.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Amplitudes differ from squared probabilities.</text>
+<line x1="40.0" y1="98.0" x2="920.0" y2="98.0" stroke="#d8e3eb" stroke-width="1" />
+<text x="94.0" y="151.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Amplitudes</text>
+<text x="531.0" y="151.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Probabilities</text>
+<line x1="476.0" y1="144.0" x2="476.0" y2="505.0" stroke="#d8e3eb" stroke-width="2" />
+<rect x="88" y="202" width="347" height="92" rx="6" fill="#f5f9fb" stroke="#d8e3eb"/>
+<text x="117.0" y="257.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start">|+⟩</text>
+<text x="290.0" y="256.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="400" text-anchor="middle">√3/2</text>
+<rect x="533" y="211" width="310" height="58" rx="6" fill="#f0f4f6" stroke="#d8e3eb"/>
+<rect x="533" y="211" width="232.5" height="58" rx="6" fill="#1874a8" stroke="#1874a8"/>
+<text x="859.0" y="251.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">75 %</text>
+<rect x="88" y="351" width="347" height="92" rx="6" fill="#f5f9fb" stroke="#d8e3eb"/>
+<text x="117.0" y="406.0" fill="#d97738" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" text-anchor="start">|−⟩</text>
+<text x="290.0" y="405.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="400" text-anchor="middle">i/2</text>
+<rect x="533" y="360" width="310" height="58" rx="6" fill="#f0f4f6" stroke="#d8e3eb"/>
+<rect x="533" y="360" width="77.5" height="58" rx="6" fill="#d97738" stroke="#d97738"/>
+<text x="859.0" y="400.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">25 %</text>
+<text x="490.0" y="530.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">Normalization: 3/4 + 1/4 = 1</text>
+</svg>

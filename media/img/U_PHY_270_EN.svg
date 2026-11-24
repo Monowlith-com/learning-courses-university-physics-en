@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Coupling scheme of four product basis states into three triplet states and one singlet state">
+<title>Coupling Two Spin-½ Systems</title>
+<desc>Four product states become a triplet and a singlet.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="46.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Coupling Two Spin-½ Systems</text>
+<text x="40.0" y="76.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Four product states become a triplet and a singlet.</text>
+<line x1="40.0" y1="98.0" x2="920.0" y2="98.0" stroke="#d8e3eb" stroke-width="1" />
+<text x="104.0" y="154.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Product basis</text>
+<text x="616.0" y="154.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Coupled basis</text>
+<line x1="462.0" y1="155.0" x2="462.0" y2="511.0" stroke="#d8e3eb" stroke-width="2" />
+<rect x="93" y="202" width="258" height="47" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="222.0" y="234.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">↑↑</text>
+<rect x="93" y="270" width="258" height="47" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="222.0" y="302.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">↑↓</text>
+<rect x="93" y="338" width="258" height="47" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="222.0" y="370.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">↓↑</text>
+<rect x="93" y="406" width="258" height="47" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="222.0" y="438.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="400" text-anchor="middle">↓↓</text>
+<rect x="594" y="193" width="254" height="45" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="720.0" y="224.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">|1,1⟩</text>
+<rect x="594" y="268" width="254" height="45" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="720.0" y="299.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">|1,0⟩</text>
+<rect x="594" y="343" width="254" height="45" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="720.0" y="374.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">|1,−1⟩</text>
+<rect x="594" y="432" width="254" height="45" rx="6" fill="#f3f8fb" stroke="#d8e3eb"/>
+<text x="720.0" y="463.0" fill="#d97738" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="middle">|0,0⟩</text>
+<line x1="354.0" y1="226.0" x2="590.0" y2="216.0" stroke="#1874a8" stroke-width="2" />
+<line x1="354.0" y1="294.0" x2="590.0" y2="291.0" stroke="#1874a8" stroke-width="2" />
+<line x1="354.0" y1="362.0" x2="590.0" y2="291.0" stroke="#1874a8" stroke-width="2" />
+<line x1="354.0" y1="430.0" x2="590.0" y2="366.0" stroke="#1874a8" stroke-width="2" />
+<line x1="354.0" y1="294.0" x2="590.0" y2="455.0" stroke="#d97738" stroke-width="2" />
+<line x1="354.0" y1="362.0" x2="590.0" y2="455.0" stroke="#d97738" stroke-width="2" />
+<text x="721.0" y="532.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" text-anchor="middle">3 triplet + 1 singlet</text>
+</svg>

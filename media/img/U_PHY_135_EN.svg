@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Boundary Integrals and Local Fields">
+<title>Boundary Integrals and Local Fields</title>
+<desc>Left: closed surface; right: open surface with boundary</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Boundary Integrals and Local Fields</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Left: closed surface; right: open surface with boundary</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<text x="256.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="middle" font-weight="700">Gauss: flux</text>
+<text x="702.0" y="156.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="middle" font-weight="700">Stokes: circulation</text>
+<ellipse cx="250" cy="351" rx="118" ry="110" fill="#f3f6f8" stroke="#17698e" stroke-width="3"/>
+<path d="M 132 350 C 160 395 342 395 368 350" stroke="#6a7580" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="250.0" y1="242.0" x2="250.0" y2="192.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="131.0" y1="353.0" x2="73.0" y2="353.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="370.0" y1="353.0" x2="428.0" y2="353.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="250.0" y1="458.0" x2="250.0" y2="509.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<text x="250.0" y="557.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#25313b" text-anchor="middle" font-weight="400">closed boundary</text>
+<ellipse cx="710" cy="351" rx="136" ry="76" fill="#f3f6f8" stroke="#17698e" stroke-width="4"/>
+<line x1="710.0" y1="347.0" x2="710.0" y2="214.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<text x="733.0" y="213.0" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#25313b" text-anchor="start" font-weight="400">n</text>
+<path d="M 825 310 Q 851 338 822 374" stroke="#17698e" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="820.0" y1="373.0" x2="800.0" y2="388.0" stroke="#17698e" stroke-width="3" marker-end="url(#blue)"/>
+<text x="713.0" y="559.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#25313b" text-anchor="middle" font-weight="400">oriented boundary curve</text>
+</svg>

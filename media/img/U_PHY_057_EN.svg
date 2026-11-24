@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two coupled spring masses moving in-phase and out-of-phase">
+<title>In-Phase and Out-of-Phase Normal Modes</title>
+<desc>The coupling spring responds only to relative displacement.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#096b85"/></marker></defs>
+<rect width="960" height="600" fill="white"/>
+<text x="42.00" y="47.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="start" font-weight="700" fill="#233241">In-Phase and Out-of-Phase Normal Modes</text>
+<text x="42.00" y="77.00" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#65717c">The coupling spring responds only to relative displacement.</text>
+<line x1="42.00" y1="104.00" x2="918.00" y2="104.00" stroke="#bcc7cc" stroke-width="1"/>
+<line x1="172.00" y1="242.00" x2="791.00" y2="242.00" stroke="#dae1e4" stroke-width="2"/>
+<line x1="170.00" y1="187.00" x2="170.00" y2="297.00" stroke="#233241" stroke-width="7"/>
+<line x1="790.00" y1="187.00" x2="790.00" y2="297.00" stroke="#233241" stroke-width="7"/>
+<polyline points="172.00,242.00 185.91,231.00 199.82,253.00 213.73,231.00 227.64,253.00 241.55,231.00 255.45,253.00 269.36,231.00 283.27,253.00 297.18,231.00 311.09,253.00 325.00,242.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="445.00,242.00 451.36,231.00 457.73,253.00 464.09,231.00 470.45,253.00 476.82,231.00 483.18,253.00 489.55,231.00 495.91,253.00 502.27,231.00 508.64,253.00 515.00,242.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="635.00,242.00 649.09,231.00 663.18,253.00 677.27,231.00 691.36,253.00 705.45,231.00 719.55,253.00 733.64,231.00 747.73,253.00 761.82,231.00 775.91,253.00 790.00,242.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="347" y="212" width="76" height="60" fill="#edf2f3" stroke="#096b85" stroke-width="3"/>
+<rect x="537" y="212" width="76" height="60" fill="#edf2f3" stroke="#096b85" stroke-width="3"/>
+<line x1="383.00" y1="194.00" x2="425.00" y2="194.00" stroke="#c66938" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="574.00" y1="194.00" x2="616.00" y2="194.00" stroke="#c66938" stroke-width="3" marker-end="url(#arr)"/>
+<text x="154.00" y="326.00" font-family="Arial,Helvetica,sans-serif" font-size="21" text-anchor="start" font-weight="400" fill="#096b85">In phase</text>
+<line x1="172.00" y1="421.00" x2="791.00" y2="421.00" stroke="#dae1e4" stroke-width="2"/>
+<line x1="170.00" y1="366.00" x2="170.00" y2="476.00" stroke="#233241" stroke-width="7"/>
+<line x1="790.00" y1="366.00" x2="790.00" y2="476.00" stroke="#233241" stroke-width="7"/>
+<polyline points="172.00,421.00 185.91,410.00 199.82,432.00 213.73,410.00 227.64,432.00 241.55,410.00 255.45,432.00 269.36,410.00 283.27,432.00 297.18,410.00 311.09,432.00 325.00,421.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="445.00,421.00 451.36,410.00 457.73,432.00 464.09,410.00 470.45,432.00 476.82,410.00 483.18,432.00 489.55,410.00 495.91,432.00 502.27,410.00 508.64,432.00 515.00,421.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="635.00,421.00 649.09,410.00 663.18,432.00 677.27,410.00 691.36,432.00 705.45,410.00 719.55,432.00 733.64,410.00 747.73,432.00 761.82,410.00 775.91,432.00 790.00,421.00" stroke="#233241" stroke-width="2.3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="347" y="391" width="76" height="60" fill="#edf2f3" stroke="#096b85" stroke-width="3"/>
+<rect x="537" y="391" width="76" height="60" fill="#edf2f3" stroke="#096b85" stroke-width="3"/>
+<line x1="383.00" y1="373.00" x2="425.00" y2="373.00" stroke="#c66938" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="574.00" y1="373.00" x2="532.00" y2="373.00" stroke="#c66938" stroke-width="3" marker-end="url(#arr)"/>
+<text x="154.00" y="505.00" font-family="Arial,Helvetica,sans-serif" font-size="21" text-anchor="start" font-weight="400" fill="#096b85">Out of phase</text>
+<text x="720.00" y="166.00" font-family="Arial,Helvetica,sans-serif" font-size="22" text-anchor="end" font-weight="400" fill="#233241">ω₊² = k/m</text>
+<text x="780.00" y="366.00" font-family="Arial,Helvetica,sans-serif" font-size="22" text-anchor="end" font-weight="400" fill="#233241">ω₋² = (k+2κ)/m</text>
+</svg>

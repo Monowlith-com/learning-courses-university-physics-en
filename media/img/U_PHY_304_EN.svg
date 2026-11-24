@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Bar comparison of type A and B standard uncertainties and their combination">
+<title>Uncertainty Contributions</title>
+<desc>Quadrature combination of independent standard uncertainties</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Uncertainty Contributions</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">Quadrature combination of independent standard uncertainties</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<text x="90.0" y="147.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#243747" text-anchor="start" font-weight="400">Standard uncertainty</text>
+<line x1="125.0" y1="487.0" x2="870.0" y2="487.0" stroke="#243747" stroke-width="2"/>
+<rect x="185" y="273.66666666666663" width="152" height="213.33333333333334" rx="5" fill="white" stroke="#126da1" stroke-width="2"/>
+<rect x="192" y="280.66666666666663" width="138" height="199.33333333333334" rx="2" fill="#f7f9fa" stroke="none" stroke-width="2"/>
+<text x="261.0" y="257.7" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#126da1" text-anchor="middle" font-weight="700">0.0300 V</text>
+<text x="261.0" y="525.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#243747" text-anchor="middle" font-weight="400">uA</text>
+<rect x="427" y="281.7022222222222" width="152" height="205.29777777777778" rx="5" fill="white" stroke="#6753a5" stroke-width="2"/>
+<rect x="434" y="288.7022222222222" width="138" height="191.29777777777778" rx="2" fill="#f7f9fa" stroke="none" stroke-width="2"/>
+<text x="503.0" y="265.7" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#6753a5" text-anchor="middle" font-weight="700">0.0289 V</text>
+<text x="503.0" y="525.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#243747" text-anchor="middle" font-weight="400">uB</text>
+<rect x="669" y="190.89333333333332" width="152" height="296.1066666666667" rx="5" fill="white" stroke="#167a60" stroke-width="2"/>
+<rect x="676" y="197.89333333333332" width="138" height="282.1066666666667" rx="2" fill="#f7f9fa" stroke="none" stroke-width="2"/>
+<text x="745.0" y="174.9" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#167a60" text-anchor="middle" font-weight="700">0.0416 V</text>
+<text x="745.0" y="525.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#243747" text-anchor="middle" font-weight="400">uc</text>
+<text x="486.0" y="573.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#62717c" text-anchor="middle" font-weight="400">Quadrature of independent contributions</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Decreasing theoretical standard error against sample count">
+<title>Monte Carlo Sampling Uncertainty</title>
+<desc>Theoretical standard error decreases with inverse square root of N</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white" stroke-width="2"/>
+<text x="36.0" y="49.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#253746" text-anchor="start" font-weight="700">Monte Carlo Sampling Uncertainty</text>
+<text x="36.0" y="80.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#697683" text-anchor="start" font-weight="400">Theoretical standard error decreases with inverse square root of N</text>
+<line x1="36.00" y1="100.00" x2="924.00" y2="100.00" stroke="#d7dee3" stroke-width="2"/>
+<line x1="154.00" y1="492.00" x2="852.00" y2="492.00" stroke="#253746" stroke-width="2"/>
+<line x1="154.00" y1="492.00" x2="154.00" y2="165.00" stroke="#253746" stroke-width="2"/>
+<text x="119.0" y="183.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#253746" text-anchor="start" font-weight="400">Standard error</text>
+<text x="864.0" y="473.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#253746" text-anchor="start" font-weight="400">N</text>
+<polyline points="154.00,394.68 170.90,405.26 187.80,414.69 204.70,423.10 221.60,430.59 238.50,437.27 255.40,443.22 272.30,448.53 289.20,453.26 306.10,457.47 323.00,461.22 339.90,464.57 356.80,467.55 373.70,470.21 390.60,472.58 407.50,474.69 424.40,476.58 441.30,478.25 458.20,479.75 475.10,481.08 492.00,482.27 508.90,483.33 525.80,484.27 542.70,485.11 559.60,485.86 576.50,486.53 593.40,487.12 610.30,487.65 627.20,488.13 644.10,488.55 661.00,488.92 677.90,489.26 694.80,489.56 711.70,489.82 728.60,490.06 745.50,490.27 762.40,490.46 779.30,490.63 796.20,490.77 813.10,490.91 830.00,491.03" fill="none" stroke="#1573a6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="154.00" cy="394.68" r="6" fill="#218260"/>
+<text x="154.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#253746" text-anchor="middle" font-weight="400">10</text>
+<circle cx="323.00" cy="461.22" r="6" fill="#218260"/>
+<text x="323.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#253746" text-anchor="middle" font-weight="400">100</text>
+<circle cx="492.00" cy="482.27" r="6" fill="#218260"/>
+<text x="492.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#253746" text-anchor="middle" font-weight="400">1000</text>
+<circle cx="661.00" cy="488.92" r="6" fill="#218260"/>
+<text x="661.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#253746" text-anchor="middle" font-weight="400">10000</text>
+<circle cx="830.00" cy="491.03" r="6" fill="#218260"/>
+<text x="830.0" y="520.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#253746" text-anchor="middle" font-weight="400">100000</text>
+<text x="472.0" y="151.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#218260" text-anchor="middle" font-weight="700">Theory: 1/√N</text>
+<text x="490.0" y="559.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#697683" text-anchor="middle" font-weight="400">No individual realizations are plotted</text>
+</svg>

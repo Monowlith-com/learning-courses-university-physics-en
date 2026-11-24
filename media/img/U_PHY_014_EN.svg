@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img" aria-label="Schematic energy axis with valence and conduction bands, band gap and optical-transition arrow.">
+<rect width="900" height="450" fill="#f8fafc"/>
+<text x="42" y="53" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700" fill="#17273a" text-anchor="start">Electronic band gap</text>
+<line x1="180" y1="110" x2="180" y2="366" stroke="#17273a" stroke-width="3"/>
+<text x="150" y="100" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" fill="#17273a" text-anchor="start">E</text>
+<polygon points="180,101 174,117 186,117" fill="#17273a"/>
+<rect x="230" y="156" width="460" height="36" rx="7" fill="#1964ad" opacity="0.17"/>
+<line x1="230" y1="174" x2="690" y2="174" stroke="#1964ad" stroke-width="5"/>
+<text x="707" y="180" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#1964ad" text-anchor="start">Conduction band</text>
+<rect x="230" y="301" width="460" height="36" rx="7" fill="#15826f" opacity="0.17"/>
+<line x1="230" y1="319" x2="690" y2="319" stroke="#15826f" stroke-width="5"/>
+<text x="707" y="325" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#15826f" text-anchor="start">Valence band</text>
+<line x1="450" y1="302" x2="450" y2="174" stroke="#cf6338" stroke-width="5"/>
+<polygon points="450,160 441,179 459,179" fill="#cf6338"/>
+<text x="471" y="241" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#cf6338" text-anchor="start">E = hν</text>
+<line x1="600" y1="196" x2="600" y2="295" stroke="#17273a" stroke-width="2"/>
+<line x1="590" y1="196" x2="610" y2="196" stroke="#17273a" stroke-width="2"/>
+<line x1="590" y1="295" x2="610" y2="295" stroke="#17273a" stroke-width="2"/>
+<text x="618" y="255" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="700" fill="#17273a" text-anchor="start">E_g</text>
+</svg>

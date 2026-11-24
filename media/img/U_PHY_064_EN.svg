@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Data flow: raw data, processing, analysis and report with metadata">
+<title>Reproducible research workflow</title>
+<desc>Immutable raw data and traceable processing</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="34.0" y="49.0" text-anchor="start" font-size="26" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Reproducible research workflow</text>
+<text x="34.0" y="82.0" text-anchor="start" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">Immutable raw data and traceable processing</text>
+<line x1="34.0" y1="101.0" x2="925.0" y2="101.0" stroke="#bacbd5" stroke-width="1"/>
+<rect x="37" y="228" width="211" height="119" rx="9" fill="#edf6fb" stroke="#2777a8" stroke-width="2"/>
+<text x="142.0" y="268.0" text-anchor="middle" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Raw data</text>
+<text x="142.0" y="313.0" text-anchor="middle" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">immutable</text>
+<line x1="248.0" y1="286.0" x2="263.0" y2="286.0" stroke="#c46b32" stroke-width="3"/><polygon points="263.0,286.0 251.9,292.8 251.9,279.2" fill="#c46b32"/>
+<rect x="267" y="228" width="211" height="119" rx="9" fill="#edf5ef" stroke="#237b64" stroke-width="2"/>
+<text x="372.0" y="268.0" text-anchor="middle" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Processing</text>
+<text x="372.0" y="313.0" text-anchor="middle" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">versioned</text>
+<line x1="478.0" y1="286.0" x2="493.0" y2="286.0" stroke="#c46b32" stroke-width="3"/><polygon points="493.0,286.0 481.9,292.8 481.9,279.2" fill="#c46b32"/>
+<rect x="497" y="228" width="211" height="119" rx="9" fill="#edf6fb" stroke="#2777a8" stroke-width="2"/>
+<text x="602.0" y="268.0" text-anchor="middle" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Analysis</text>
+<text x="602.0" y="313.0" text-anchor="middle" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">parameters</text>
+<line x1="708.0" y1="286.0" x2="723.0" y2="286.0" stroke="#c46b32" stroke-width="3"/><polygon points="723.0,286.0 711.9,292.8 711.9,279.2" fill="#c46b32"/>
+<rect x="727" y="228" width="211" height="119" rx="9" fill="#edf5ef" stroke="#237b64" stroke-width="2"/>
+<text x="832.0" y="268.0" text-anchor="middle" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Report</text>
+<text x="832.0" y="313.0" text-anchor="middle" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">uncertainty</text>
+<rect x="130" y="414" width="703" height="59" rx="8" fill="#f5f8fa" stroke="#91aabb" stroke-width="2"/>
+<text x="482.0" y="450.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">Metadata, units and access rights accompany every stage</text>
+<text x="484.0" y="545.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#c46b32">FAIR does not automatically mean unrestricted access</text>
+</svg>

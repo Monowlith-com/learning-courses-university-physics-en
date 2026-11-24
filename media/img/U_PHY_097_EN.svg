@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Four by four electromagnetic field tensor matrix showing electric and magnetic entries">
+<title>Antisymmetric Electromagnetic Field Tensor</title>
+<desc>Six independent components, paired with opposite sign.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="43.0" y="48.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" text-anchor="start" font-weight="700" fill="#142b3e">Antisymmetric Electromagnetic Field Tensor</text>
+<text x="43.0" y="79.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="400" fill="#627786">Six independent components, paired with opposite sign.</text>
+<line x1="43.0" y1="107.0" x2="917.0" y2="107.0" stroke="#dce5e8" stroke-width="1"/>
+<text x="156.0" y="155.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#1d3346">F^(μν)</text>
+<text x="164.0" y="208.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" text-anchor="start" font-weight="400" fill="#627786">row / column</text>
+<text x="318.5" y="164.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">0</text>
+<text x="259.0" y="216.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">0</text>
+<text x="383.5" y="164.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">x</text>
+<text x="259.0" y="281.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">x</text>
+<text x="448.5" y="164.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">y</text>
+<text x="259.0" y="346.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">y</text>
+<text x="513.5" y="164.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">z</text>
+<text x="259.0" y="411.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#1d3346">z</text>
+<rect x="286" y="179" width="62" height="62" rx="2" fill="#f2f7f7" stroke="#dce5e8" stroke-width="1"/>
+<text x="317.0" y="218.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#1d3346">0</text>
+<rect x="351" y="179" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="382.0" y="218.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">Eₓ/c</text>
+<rect x="416" y="179" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="447.0" y="218.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">Eᵧ/c</text>
+<rect x="481" y="179" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="512.0" y="218.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">E_z/c</text>
+<rect x="286" y="244" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="317.0" y="283.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">−Eₓ/c</text>
+<rect x="351" y="244" width="62" height="62" rx="2" fill="#f2f7f7" stroke="#dce5e8" stroke-width="1"/>
+<text x="382.0" y="283.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#1d3346">0</text>
+<rect x="416" y="244" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="447.0" y="283.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">B_z</text>
+<rect x="481" y="244" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="512.0" y="283.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">−Bᵧ</text>
+<rect x="286" y="309" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="317.0" y="348.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">−Eᵧ/c</text>
+<rect x="351" y="309" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="382.0" y="348.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">−B_z</text>
+<rect x="416" y="309" width="62" height="62" rx="2" fill="#f2f7f7" stroke="#dce5e8" stroke-width="1"/>
+<text x="447.0" y="348.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#1d3346">0</text>
+<rect x="481" y="309" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="512.0" y="348.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">Bₓ</text>
+<rect x="286" y="374" width="62" height="62" rx="2" fill="#e6f4fb" stroke="#dce5e8" stroke-width="1"/>
+<text x="317.0" y="413.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#086d92">−E_z/c</text>
+<rect x="351" y="374" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="382.0" y="413.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">Bᵧ</text>
+<rect x="416" y="374" width="62" height="62" rx="2" fill="#f9ede4" stroke="#dce5e8" stroke-width="1"/>
+<text x="447.0" y="413.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#b96232">−Bₓ</text>
+<rect x="481" y="374" width="62" height="62" rx="2" fill="#f2f7f7" stroke="#dce5e8" stroke-width="1"/>
+<text x="512.0" y="413.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="600" fill="#1d3346">0</text>
+<text x="667.0" y="223.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="start" font-weight="700" fill="#086d92">Electric</text>
+<text x="667.0" y="264.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="400" fill="#086d92">F⁰ⁱ = Eᵢ/c</text>
+<text x="667.0" y="327.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="start" font-weight="700" fill="#b96232">Magnetic</text>
+<text x="667.0" y="369.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#b96232">Fⁱʲ = εⁱʲᵏ Bₖ</text>
+<text x="480.0" y="527.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" text-anchor="middle" font-weight="400" fill="#1d3346">F^(μν) = −F^(νμ)</text>
+<text x="480.0" y="561.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="middle" font-weight="400" fill="#1d3346">F^(μν) F_(μν) = 2(B² − E²/c²)</text>
+</svg>

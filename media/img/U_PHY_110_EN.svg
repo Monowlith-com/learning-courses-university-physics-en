@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two potential representations each producing zero electric and magnetic fields">
+<title>Gauge Transformation of Potentials</title>
+<desc>Different potentials can represent the same E and B fields.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="43.0" y="48.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" text-anchor="start" font-weight="700" fill="#142b3e">Gauge Transformation of Potentials</text>
+<text x="43.0" y="79.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="400" fill="#627786">Different potentials can represent the same E and B fields.</text>
+<line x1="43.0" y1="107.0" x2="917.0" y2="107.0" stroke="#dce5e8" stroke-width="1"/>
+<rect x="65" y="164" width="394" height="314" rx="6" fill="#f2f7f7" stroke="#dce5e8" stroke-width="2"/>
+<rect x="500" y="164" width="394" height="314" rx="6" fill="#f2f7f7" stroke="#dce5e8" stroke-width="2"/>
+<text x="88.0" y="206.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="700" fill="#142b3e">Initial gauge</text>
+<text x="525.0" y="206.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="700" fill="#142b3e">Transformed gauge</text>
+<text x="90.0" y="270.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#086d92">φ = 0</text>
+<text x="90.0" y="312.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#b96232">A = 0</text>
+<text x="525.0" y="270.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#086d92">φ′ = −ax</text>
+<text x="525.0" y="312.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#b96232">A′ = at eₓ</text>
+<line x1="462.0" y1="320.0" x2="498.0" y2="320.0" stroke="#086d92" stroke-width="2" marker-end="url(#arr)"/>
+<text x="480.0" y="293.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="middle" font-weight="400" fill="#1d3346">χ = axt</text>
+<circle cx="225.0" cy="411.0" r="42.0" stroke="#237f65" stroke-width="2" fill="#e5f4ef"/>
+<text x="225.0" y="416.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#237f65">E = 0</text>
+<text x="225.0" y="467.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#237f65">B = 0</text>
+<circle cx="660.0" cy="411.0" r="42.0" stroke="#237f65" stroke-width="2" fill="#e5f4ef"/>
+<text x="660.0" y="416.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="middle" font-weight="700" fill="#237f65">E = 0</text>
+<text x="660.0" y="467.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="middle" font-weight="400" fill="#237f65">B = 0</text>
+<text x="480.0" y="544.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="middle" font-weight="400" fill="#1d3346">Observable fields unchanged</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Level Curves and Gradient">
+<title>Level Curves and Gradient</title>
+<desc>Arrows point toward increasing values</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Level Curves and Gradient</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Arrows point toward increasing values</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<line x1="120.0" y1="325.0" x2="785.0" y2="325.0" stroke="#6a7580" stroke-width="1" marker-end="url(#dark)"/>
+<line x1="350.0" y1="530.0" x2="350.0" y2="130.0" stroke="#6a7580" stroke-width="1" marker-end="url(#dark)"/>
+<text x="785.0" y="350.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#25313b" text-anchor="start" font-weight="400">x</text>
+<text x="360.0" y="125.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#25313b" text-anchor="start" font-weight="400">y</text>
+<circle cx="350.0" cy="325.0" r="55.0" fill="none" stroke="#b3cbd9" stroke-width="2"/>
+<text x="399.0" y="320.0" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17698e" text-anchor="end" font-weight="400">1</text>
+<circle cx="350.0" cy="325.0" r="110.0" fill="none" stroke="#17698e" stroke-width="2"/>
+<text x="454.0" y="320.0" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17698e" text-anchor="end" font-weight="400">4</text>
+<circle cx="350.0" cy="325.0" r="165.0" fill="none" stroke="#b3cbd9" stroke-width="2"/>
+<text x="509.0" y="320.0" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#17698e" text-anchor="end" font-weight="400">9</text>
+<line x1="415.0" y1="325.0" x2="466.0" y2="325.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="285.0" y1="325.0" x2="234.0" y2="325.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="350.0" y1="390.0" x2="350.0" y2="441.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<line x1="350.0" y1="260.0" x2="350.0" y2="209.0" stroke="#af542b" stroke-width="3" marker-end="url(#orange)"/>
+<text x="608.0" y="196.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="700">Scale:</text>
+<text x="608.0" y="240.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="400">f(x,y) = x² + y²</text>
+<text x="608.0" y="285.0" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="400">∇f = (2x, 2y)</text>
+<text x="608.0" y="349.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">Normal to</text>
+<text x="608.0" y="377.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">the level curve</text>
+</svg>

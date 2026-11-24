@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Comparison of electric and magnetic field directions before and after a Lorentz boost">
+<title>Electric and Magnetic Fields Under a Boost</title>
+<desc>Motion along x mixes transverse field components.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="43.0" y="48.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" text-anchor="start" font-weight="700" fill="#142b3e">Electric and Magnetic Fields Under a Boost</text>
+<text x="43.0" y="79.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="400" fill="#627786">Motion along x mixes transverse field components.</text>
+<line x1="43.0" y1="107.0" x2="917.0" y2="107.0" stroke="#dce5e8" stroke-width="1"/>
+<rect x="68" y="159" width="388" height="324" rx="6" fill="#f0f6f9" stroke="#dce5e8" stroke-width="1"/>
+<rect x="503" y="159" width="388" height="324" rx="6" fill="#f7f2ef" stroke="#dce5e8" stroke-width="1"/>
+<text x="95.0" y="196.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="700" fill="#1d3346">Observer S</text>
+<text x="528.0" y="196.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="700" fill="#1d3346">Observer S′</text>
+<line x1="158.0" y1="389.0" x2="370.0" y2="389.0" stroke="#1d3346" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="258.0" y1="434.0" x2="258.0" y2="239.0" stroke="#1d3346" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="262.0" y1="372.0" x2="262.0" y2="282.0" stroke="#086d92" stroke-width="4" marker-end="url(#arr)"/>
+<text x="276.0" y="277.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="400" fill="#086d92">Eᵧ</text>
+<text x="372.0" y="407.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" font-weight="400" fill="#1d3346">x</text>
+<text x="239.0" y="245.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" font-weight="400" fill="#1d3346">y</text>
+<line x1="593.0" y1="389.0" x2="805.0" y2="389.0" stroke="#1d3346" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="693.0" y1="434.0" x2="693.0" y2="239.0" stroke="#1d3346" stroke-width="2" marker-end="url(#arr)"/>
+<line x1="697.0" y1="372.0" x2="697.0" y2="282.0" stroke="#086d92" stroke-width="4" marker-end="url(#arr)"/>
+<text x="711.0" y="277.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="start" font-weight="400" fill="#086d92">Eᵧ</text>
+<text x="807.0" y="407.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" font-weight="400" fill="#1d3346">x</text>
+<text x="674.0" y="245.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" text-anchor="start" font-weight="400" fill="#1d3346">y</text>
+<text x="239.0" y="460.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" text-anchor="middle" font-weight="400" fill="#b96232">B = 0</text>
+<circle cx="760.0" cy="345.0" r="17.0" stroke="#b96232" stroke-width="2" fill="white"/>
+<line x1="750.0" y1="335.0" x2="770.0" y2="355.0" stroke="#b96232" stroke-width="3"/>
+<line x1="770.0" y1="335.0" x2="750.0" y2="355.0" stroke="#b96232" stroke-width="3"/>
+<text x="782.0" y="351.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#b96232">B′z &lt; 0</text>
+<line x1="424.0" y1="225.0" x2="516.0" y2="225.0" stroke="#086d92" stroke-width="2" marker-end="url(#arr)"/>
+<text x="474.0" y="214.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="400" fill="#086d92">v →</text>
+<text x="480.0" y="549.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="400" fill="#1d3346">E′y = γ Eᵧ</text>
+</svg>

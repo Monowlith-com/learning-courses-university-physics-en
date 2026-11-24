@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="A schematic count plot shows 180 total, 40 blank and 140 net events.">
+<title>Total counts, blank counts and net result</title>
+<desc>A schematic count plot shows 180 total, 40 blank and 140 net events.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Total counts, blank counts and net result</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">A schematic count plot shows 180 total, 40 blank and 140 net events.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<line x1="155" y1="170" x2="155" y2="488" stroke="#263746" stroke-width="2"/>
+<line x1="155" y1="488" x2="850" y2="488" stroke="#263746" stroke-width="2"/>
+<rect x="225" y="229" width="115" height="259" rx="0" stroke="#176b9b" stroke-width="2" fill="#176b9b"/>
+<text x="282" y="216" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#263746" text-anchor="middle" font-weight="700">180</text>
+<text x="282" y="528" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#263746" text-anchor="middle" font-weight="400">Total counts</text>
+<rect x="448" y="431" width="115" height="57" rx="0" stroke="#b96b2f" stroke-width="2" fill="#b96b2f"/>
+<text x="505" y="418" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#263746" text-anchor="middle" font-weight="700">40</text>
+<text x="505" y="528" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#263746" text-anchor="middle" font-weight="400">Blank</text>
+<rect x="671" y="287" width="115" height="201" rx="0" stroke="#257a56" stroke-width="2" fill="#257a56"/>
+<text x="728" y="274" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#263746" text-anchor="middle" font-weight="700">140</text>
+<text x="728" y="528" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#263746" text-anchor="middle" font-weight="400">Net counts</text>
+<text x="500" y="575" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="middle" font-weight="400">Equal acquisition times; independent counts</text>
+</svg>

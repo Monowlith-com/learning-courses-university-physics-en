@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Parallel lattice planes, incident and diffracted electron waves, and plane spacing d">
+<title>Bragg Diffraction of Electrons</title>
+<desc>Reflection by parallel lattice planes: 2d sin θ = nλ.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#fff" stroke="#fff" stroke-width="0" rx="0"/>
+<text x="42.0" y="47.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="26" text-anchor="start">Bragg Diffraction of Electrons</text>
+<text x="42.0" y="79.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">Reflection by parallel lattice planes: 2d sin θ = nλ.</text>
+<line x1="42.0" y1="106.0" x2="918.0" y2="106.0" stroke="#dce5e8" stroke-width="1"/>
+<text x="105.0" y="157.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="18" text-anchor="start">Incident and diffracted waves</text>
+<line x1="100.0" y1="318.0" x2="858.0" y2="318.0" stroke="#dce5e8" stroke-width="2" stroke-dasharray="7 7"/>
+<circle cx="128" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="176" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="224" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="272" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="320" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="368" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="416" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="464" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="512" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="560" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="608" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="656" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="704" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="752" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="800" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="848" cy="318" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<line x1="100.0" y1="426.0" x2="858.0" y2="426.0" stroke="#dce5e8" stroke-width="2" stroke-dasharray="7 7"/>
+<circle cx="128" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="176" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="224" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="272" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="320" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="368" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="416" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="464" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="512" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="560" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="608" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="656" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="704" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="752" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="800" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<circle cx="848" cy="426" r="3" fill="#dce5e8" stroke="#dce5e8" stroke-width="0"/>
+<polyline points="230.0,171.0 397.0,318.0 565.0,171.0" fill="none" stroke="#086d92" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="340.0,246.0 542.0,426.0 745.0,246.0" fill="none" stroke="#b96232" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="397" cy="318" r="7" fill="#086d92" stroke="#086d92" stroke-width="0"/>
+<circle cx="542" cy="426" r="7" fill="#086d92" stroke="#086d92" stroke-width="0"/>
+<line x1="833.0" y1="323.0" x2="833.0" y2="420.0" stroke="#1d3346" stroke-width="1.5"/>
+<line x1="827.0" y1="323.0" x2="839.0" y2="323.0" stroke="#1d3346" stroke-width="1.5"/>
+<line x1="827.0" y1="420.0" x2="839.0" y2="420.0" stroke="#1d3346" stroke-width="1.5"/>
+<text x="848.0" y="380.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="23" text-anchor="start">d</text>
+<text x="300.0" y="264.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">θ</text>
+<text x="585.0" y="286.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">θ</text>
+<text x="495.0" y="516.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="25" text-anchor="middle">2d sin θ = nλ</text>
+<text x="460.0" y="557.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="middle">Schematic lattice planes</text>
+</svg>

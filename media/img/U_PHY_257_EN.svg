@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Incident beam, scattering center, angle theta and sector-like detector acceptance">
+<title>Scattering Angle and Detector Acceptance</title>
+<desc>An angular bin selects part of the cross section.</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="#ffffff"/>
+<text x="40.0" y="46.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#1b2f44" text-anchor="start" font-weight="700">Scattering Angle and Detector Acceptance</text>
+<text x="40.0" y="77.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#60788a" text-anchor="start" font-weight="400">An angular bin selects part of the cross section.</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#cbd9e3" stroke-width="2"/>
+<line x1="120.0" y1="343.0" x2="469.0" y2="343.0" stroke="#1575a9" stroke-width="5"/><polyline points="458.4,348.5 469.0,343.0 458.4,337.5" fill="none" stroke="#1575a9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="470.0" cy="343.0" r="16.0" fill="#7952a5" stroke="none" stroke-width="1"/>
+<line x1="470.0" y1="343.0" x2="818.0" y2="343.0" stroke="#cbd9e3" stroke-width="2" stroke-dasharray="6 5"/>
+<text x="235.0" y="316.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#1575a9" text-anchor="middle" font-weight="400">Incident beam</text>
+<line x1="478.0" y1="335.0" x2="730.0" y2="139.8" stroke="#ca6732" stroke-width="5"/><polyline points="725.0,150.7 730.0,139.8 718.2,142.0" fill="none" stroke="#ca6732" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="722.0" y="115.8" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#ca6732" text-anchor="middle" font-weight="400">Detector bin</text>
+<text x="489.0" y="379.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#7952a5" text-anchor="start" font-weight="400">Target</text>
+<polyline points="553.0,343.0 553.0,341.2 552.9,339.3 552.8,337.5 552.7,335.7 552.5,333.8 552.3,332.0 552.0,330.2 551.7,328.4 551.4,326.6 551.0,324.8 550.6,323.0 550.1,321.2 549.6,319.5 549.1,317.7 548.5,316.0 547.9,314.2 547.2,312.5 546.5,310.8 545.8,309.2 545.0,307.5 544.2,305.8 543.4,304.2 542.5,302.6 541.6,301.0 540.6,299.4 539.7,297.9 538.6,296.3 537.6,294.8 536.5,293.4 535.4,291.9" fill="none" stroke="#168270" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="571.0" y="318.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#168270" text-anchor="start" font-weight="400">θ</text>
+<polyline points="771.0,119.0 813.0,144.0 792.0,175.0" fill="none" stroke="#ca6732" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="464.0" y="516.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#1b2f44" text-anchor="middle" font-weight="700">dσ/dΩ</text>
+<text x="462.0" y="555.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#60788a" text-anchor="middle" font-weight="400">Solid angle Ω in steradians</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Three atomic levels with pump relaxation and laser transitions beside a cavity with an output coupler">
+<title>Three-Level Laser and Resonator</title>
+<desc>Pumping, relaxation and emission between cavity mirrors.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#fff" stroke="#fff" stroke-width="0" rx="0"/>
+<text x="42.0" y="47.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="26" text-anchor="start">Three-Level Laser and Resonator</text>
+<text x="42.0" y="79.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">Pumping, relaxation and emission between cavity mirrors.</text>
+<line x1="42.0" y1="106.0" x2="918.0" y2="106.0" stroke="#dce5e8" stroke-width="1"/>
+<line x1="483.0" y1="141.0" x2="483.0" y2="534.0" stroke="#dce5e8" stroke-width="2"/>
+<text x="87.0" y="158.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="20" text-anchor="start">Three levels</text>
+<text x="525.0" y="158.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="20" text-anchor="start">Cavity</text>
+<line x1="90.0" y1="464.0" x2="404.0" y2="464.0" stroke="#1d3346" stroke-width="3"/>
+<text x="407.0" y="469.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="21" text-anchor="start">E₁</text>
+<line x1="90.0" y1="331.0" x2="404.0" y2="331.0" stroke="#1d3346" stroke-width="3"/>
+<text x="407.0" y="336.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="21" text-anchor="start">E₂</text>
+<line x1="90.0" y1="205.0" x2="404.0" y2="205.0" stroke="#1d3346" stroke-width="3"/>
+<text x="407.0" y="210.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="21" text-anchor="start">E₃</text>
+<line x1="140.0" y1="456.0" x2="140.0" y2="214.0" stroke="#b96232" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="154.0" y="257.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="17" text-anchor="start">Pump</text>
+<line x1="270.0" y1="216.0" x2="270.0" y2="317.0" stroke="#237f65" stroke-width="3" stroke-dasharray="7 7" marker-end="url(#arrow)"/>
+<text x="277.0" y="285.0" fill="#237f65" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="15" text-anchor="start">Relaxation</text>
+<line x1="360.0" y1="341.0" x2="360.0" y2="449.0" stroke="#086d92" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="373.0" y="395.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="17" text-anchor="start">Laser</text>
+<rect x="568" y="226" width="21" height="207" fill="#d3e3eb" stroke="#086d92" stroke-width="1" rx="2"/>
+<rect x="843" y="226" width="21" height="207" fill="#f1e4db" stroke="#b96232" stroke-width="1" rx="2"/>
+<line x1="589.0" y1="329.0" x2="841.0" y2="329.0" stroke="#086d92" stroke-width="5" marker-end="url(#arrow)"/>
+<line x1="838.0" y1="346.0" x2="596.0" y2="346.0" stroke="#086d92" stroke-width="3" marker-end="url(#arrow)"/>
+<line x1="865.0" y1="330.0" x2="917.0" y2="330.0" stroke="#b96232" stroke-width="4" marker-end="url(#arrow)"/>
+<text x="716.0" y="223.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="19" text-anchor="middle">Gain medium</text>
+<text x="716.0" y="408.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="middle">Optical feedback</text>
+<text x="788.0" y="486.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="18" text-anchor="middle">Output coupling</text>
+</svg>

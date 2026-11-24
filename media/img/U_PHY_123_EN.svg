@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Elliptic phase-space trajectory with position and momentum axes">
+<title>Closed Oscillator Phase Orbit</title>
+<desc>Position and momentum amplitudes are the semiaxes.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#096b85"/></marker></defs>
+<rect width="960" height="600" fill="white"/>
+<text x="42.00" y="47.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="start" font-weight="700" fill="#233241">Closed Oscillator Phase Orbit</text>
+<text x="42.00" y="77.00" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#65717c">Position and momentum amplitudes are the semiaxes.</text>
+<line x1="42.00" y1="104.00" x2="918.00" y2="104.00" stroke="#bcc7cc" stroke-width="1"/>
+<line x1="120.00" y1="338.00" x2="857.00" y2="338.00" stroke="#233241" stroke-width="2"/>
+<line x1="479.00" y1="145.00" x2="479.00" y2="516.00" stroke="#233241" stroke-width="2"/>
+<ellipse cx="479" cy="338" rx="250" ry="158" stroke="#096b85" stroke-width="4" fill="none"/>
+<circle cx="729.00" cy="338.00" r="4.00" stroke="#096b85" stroke-width="3" fill="#096b85"/>
+<text x="745.00" y="320.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#096b85">q = A</text>
+<text x="498.00" y="170.00" font-family="Arial,Helvetica,sans-serif" font-size="19" text-anchor="start" font-weight="400" fill="#096b85">p = mωA</text>
+<text x="856.00" y="368.00" font-family="Arial,Helvetica,sans-serif" font-size="23" text-anchor="start" font-weight="400" fill="#233241">q</text>
+<text x="457.00" y="151.00" font-family="Arial,Helvetica,sans-serif" font-size="23" text-anchor="start" font-weight="400" fill="#233241">p</text>
+<text x="196.00" y="546.00" font-family="Arial,Helvetica,sans-serif" font-size="21" text-anchor="start" font-weight="400" fill="#c66938">Constant energy E</text>
+<polyline points="698.40,262.25 692.13,255.42 685.33,248.79" stroke="#c66938" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

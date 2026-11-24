@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Warm and cold water reaching a common ideal final temperature">
+<title>Ideal mixing temperature</title>
+<desc>Energy balance for two water masses</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="34.0" y="49.0" text-anchor="start" font-size="26" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Ideal mixing temperature</text>
+<text x="34.0" y="82.0" text-anchor="start" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">Energy balance for two water masses</text>
+<line x1="34.0" y1="101.0" x2="925.0" y2="101.0" stroke="#bacbd5" stroke-width="1"/>
+<rect x="110" y="257.7142857142857" width="150" height="214.28571428571428" rx="4" fill="#c46b32" stroke="#c46b32" stroke-width="2"/>
+<text x="185.0" y="497.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">warm: 0.20 kg</text>
+<text x="185.0" y="245.7" text-anchor="middle" font-size="22" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">60 °C</text>
+<rect x="395" y="400.57142857142856" width="150" height="71.42857142857143" rx="4" fill="#2777a8" stroke="#2777a8" stroke-width="2"/>
+<text x="470.0" y="497.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">cold: 0.30 kg</text>
+<text x="470.0" y="388.6" text-anchor="middle" font-size="22" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">20 °C</text>
+<rect x="680" y="343.42857142857144" width="150" height="128.57142857142858" rx="4" fill="#237b64" stroke="#237b64" stroke-width="2"/>
+<text x="755.0" y="497.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">mixture: 0.50 kg</text>
+<text x="755.0" y="331.4" text-anchor="middle" font-size="22" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">36 °C</text>
+<text x="346.0" y="395.0" text-anchor="middle" font-size="30" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#627888">+</text>
+<text x="628.0" y="395.0" text-anchor="middle" font-size="30" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#627888">=</text>
+<text x="480.0" y="563.0" text-anchor="middle" font-size="17" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">Ideal: no heat exchange with surroundings</text>
+</svg>

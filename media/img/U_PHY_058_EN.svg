@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two vector directions associated with eigenvalues three and one">
+<title>Linear Coupling and Eigenmodes</title>
+<desc>In-phase and out-of-phase directions of a symmetric matrix</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white" stroke-width="2"/>
+<text x="36.0" y="49.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#253746" text-anchor="start" font-weight="700">Linear Coupling and Eigenmodes</text>
+<text x="36.0" y="80.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#697683" text-anchor="start" font-weight="400">In-phase and out-of-phase directions of a symmetric matrix</text>
+<line x1="36.00" y1="100.00" x2="924.00" y2="100.00" stroke="#d7dee3" stroke-width="2"/>
+<text x="270.0" y="158.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#1573a6" text-anchor="middle" font-weight="700">In phase</text>
+<text x="708.0" y="158.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#6948a3" text-anchor="middle" font-weight="700">Out of phase</text>
+<line x1="138.00" y1="329.00" x2="402.00" y2="329.00" stroke="#d7dee3" stroke-width="2"/>
+<circle cx="200.00" cy="329.00" r="28" fill="#253746"/>
+<circle cx="340.00" cy="329.00" r="28" fill="#253746"/>
+<line x1="228.00" y1="329.00" x2="312.00" y2="329.00" stroke="#697683" stroke-width="5"/>
+<line x1="576.00" y1="329.00" x2="840.00" y2="329.00" stroke="#d7dee3" stroke-width="2"/>
+<circle cx="638.00" cy="329.00" r="28" fill="#253746"/>
+<circle cx="778.00" cy="329.00" r="28" fill="#253746"/>
+<line x1="666.00" y1="329.00" x2="750.00" y2="329.00" stroke="#697683" stroke-width="5"/>
+<line x1="200.00" y1="277.00" x2="200.00" y2="211.00" stroke="#1573a6" stroke-width="3"/><polyline points="206.00,222.53 200.00,211.00 194.00,222.53" fill="none" stroke="#1573a6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="340.00" y1="277.00" x2="340.00" y2="211.00" stroke="#1573a6" stroke-width="3"/><polyline points="346.00,222.53 340.00,211.00 334.00,222.53" fill="none" stroke="#1573a6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="638.00" y1="277.00" x2="638.00" y2="211.00" stroke="#6948a3" stroke-width="3"/><polyline points="644.00,222.53 638.00,211.00 632.00,222.53" fill="none" stroke="#6948a3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="778.00" y1="277.00" x2="778.00" y2="343.00" stroke="#6948a3" stroke-width="3"/><polyline points="772.00,331.47 778.00,343.00 784.00,331.47" fill="none" stroke="#6948a3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="270.0" y="421.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#253746" text-anchor="middle" font-weight="400">v = (1,1)</text>
+<text x="708.0" y="421.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#253746" text-anchor="middle" font-weight="400">v = (1,−1)</text>
+<text x="270.0" y="463.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#1573a6" text-anchor="middle" font-weight="700">λ = 3</text>
+<text x="708.0" y="463.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#6948a3" text-anchor="middle" font-weight="700">λ = 1</text>
+<text x="478.0" y="546.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#697683" text-anchor="middle" font-weight="400">B = [[2,1],[1,2]]</text>
+</svg>

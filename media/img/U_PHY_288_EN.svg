@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two angular positions of a particle on a circle with one force center">
+<title>Rotational Symmetry in a Central Field</title>
+<desc>Angular momentum is conserved for a central potential.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#096b85"/></marker></defs>
+<rect width="960" height="600" fill="white"/>
+<text x="42.00" y="47.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="start" font-weight="700" fill="#233241">Rotational Symmetry in a Central Field</text>
+<text x="42.00" y="77.00" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#65717c">Angular momentum is conserved for a central potential.</text>
+<line x1="42.00" y1="104.00" x2="918.00" y2="104.00" stroke="#bcc7cc" stroke-width="1"/>
+<circle cx="468.00" cy="327.00" r="179.00" stroke="#dae1e4" stroke-width="3" fill="none"/>
+<circle cx="468.00" cy="327.00" r="120.00" stroke="#dae1e4" stroke-width="3" fill="none"/>
+<circle cx="468.00" cy="327.00" r="7.00" stroke="#233241" stroke-width="3" fill="#233241"/>
+<line x1="468.00" y1="327.00" x2="636.15" y2="265.62" stroke="#096b85" stroke-width="3"/>
+<circle cx="636.15" cy="265.62" r="15.00" stroke="#096b85" stroke-width="3" fill="#096b85"/>
+<line x1="468.00" y1="327.00" x2="393.51" y2="164.24" stroke="#c66938" stroke-width="3"/>
+<circle cx="393.51" cy="164.24" r="15.00" stroke="#c66938" stroke-width="3" fill="#c66938"/>
+<polyline points="530.00,304.37 529.22,302.34 528.37,300.33 527.46,298.35 526.48,296.41 525.44,294.49 524.34,292.62 523.17,290.78 521.95,288.97 520.66,287.22 519.32,285.50 517.92,283.83 516.47,282.21 514.97,280.63 513.41,279.11 511.81,277.63 510.15,276.22 508.46,274.85 506.71,273.55 504.93,272.30 503.10,271.11 501.24,269.98 499.34,268.92 497.41,267.91 495.44,266.98 493.45,266.10 491.42,265.30 489.37,264.56 487.30,263.89 485.21,263.28 483.10,262.75 480.97,262.29 478.83,261.89 476.67,261.57 474.51,261.32 472.34,261.14 470.16,261.04 467.99,261.00 465.81,261.04 463.63,261.14 461.46,261.32 459.30,261.58 457.15,261.90 455.00,262.29 452.88,262.76 450.76,263.29 448.67,263.89 446.60,264.57 444.55,265.31 442.53,266.11 440.53,266.99" stroke="#233241" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="518.00" y="250.00" font-family="Arial,Helvetica,sans-serif" font-size="21" text-anchor="start" font-weight="400" fill="#233241">Δφ</text>
+<text x="376.00" y="360.00" font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="start" font-weight="400" fill="#233241">Center</text>
+<text x="185.00" y="541.00" font-family="Arial,Helvetica,sans-serif" font-size="25" text-anchor="start" font-weight="400" fill="#096b85">L = mr²ω</text>
+<text x="582.00" y="541.00" font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="start" font-weight="400" fill="#c66938">Rotational symmetry</text>
+</svg>

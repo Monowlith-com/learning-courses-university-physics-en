@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Tilted covariance ellipse for two positively correlated quantities and difference direction">
+<title>Correlation and Difference Measurements</title>
+<desc>Positive correlation reduces uncertainty in a difference</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Correlation and Difference Measurements</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">Positive correlation reduces uncertainty in a difference</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<line x1="143.0" y1="481.0" x2="809.0" y2="481.0" stroke="#243747" stroke-width="2"/>
+<line x1="143.0" y1="481.0" x2="143.0" y2="163.0" stroke="#243747" stroke-width="2"/>
+<text x="835.0" y="509.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#243747" text-anchor="start" font-weight="400">x₁</text>
+<text x="112.0" y="160.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#243747" text-anchor="start" font-weight="400">x₂</text>
+<ellipse cx="472" cy="329" rx="188" ry="68" transform="rotate(-37 472 329)" fill="#eef4f9" stroke="#126da1" stroke-width="4"/>
+<line x1="346.0" y1="432.0" x2="600.0" y2="229.0" stroke="#126da1" stroke-width="2" stroke-dasharray="6 6"/>
+<line x1="474.0" y1="327.0" x2="346.0" y2="458.0" stroke="#b45e29" stroke-width="3"/><polyline points="349.0,447.4 346.0,458.0 356.5,454.8" stroke="#b45e29" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="472.0" cy="329.0" r="7" fill="#6753a5"/>
+<text x="350.0" y="475.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#b45e29" text-anchor="start" font-weight="400">Difference direction</text>
+<text x="588.0" y="231.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#126da1" text-anchor="start" font-weight="400">Shared variation</text>
+<text x="440.0" y="555.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" fill="#243747" text-anchor="middle" font-weight="700">ρ = +0.75</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Neutron transforming to proton, electron and antineutrino with total electric charge zero">
+<title>Accounting for Beta-Minus Decay</title>
+<desc>n → p + e− + ν̄e</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="#ffffff"/>
+<text x="40.0" y="46.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#1b2f44" text-anchor="start" font-weight="700">Accounting for Beta-Minus Decay</text>
+<text x="40.0" y="77.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#60788a" text-anchor="start" font-weight="400">n → p + e− + ν̄e</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#cbd9e3" stroke-width="2"/>
+<circle cx="212.0" cy="322.0" r="66.0" fill="#deedf8" stroke="#1575a9" stroke-width="3"/>
+<text x="212.0" y="332.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="42" fill="#1575a9" text-anchor="middle" font-weight="700">n</text>
+<line x1="305.0" y1="322.0" x2="474.0" y2="322.0" stroke="#7952a5" stroke-width="4"/><polyline points="463.4,327.5 474.0,322.0 463.4,316.5" fill="none" stroke="#7952a5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="386.0" y="296.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#7952a5" text-anchor="middle" font-weight="400">weak</text>
+<circle cx="605.0" cy="237.0" r="43.0" fill="#f2f7fa" stroke="#168270" stroke-width="3"/>
+<text x="605.0" y="247.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" fill="#168270" text-anchor="middle" font-weight="700">p</text>
+<line x1="476.0" y1="322.0" x2="558.0" y2="237.0" stroke="#168270" stroke-width="2.5"/><polyline points="554.6,248.5 558.0,237.0 546.6,240.8" fill="none" stroke="#168270" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="605.0" cy="322.0" r="43.0" fill="#f2f7fa" stroke="#ca6732" stroke-width="3"/>
+<text x="605.0" y="332.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" fill="#ca6732" text-anchor="middle" font-weight="700">e⁻</text>
+<line x1="476.0" y1="322.0" x2="558.0" y2="322.0" stroke="#ca6732" stroke-width="2.5"/><polyline points="547.4,327.5 558.0,322.0 547.4,316.5" fill="none" stroke="#ca6732" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="605.0" cy="409.0" r="43.0" fill="#f2f7fa" stroke="#1575a9" stroke-width="3"/>
+<text x="605.0" y="419.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="30" fill="#1575a9" text-anchor="middle" font-weight="700">ν̄e</text>
+<line x1="476.0" y1="322.0" x2="558.0" y2="409.0" stroke="#1575a9" stroke-width="2.5"/><polyline points="546.7,405.1 558.0,409.0 554.7,397.5" fill="none" stroke="#1575a9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="802.0" y="227.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#168270" text-anchor="middle" font-weight="400">+1</text>
+<text x="802.0" y="325.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#ca6732" text-anchor="middle" font-weight="400">−1</text>
+<text x="802.0" y="415.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#1575a9" text-anchor="middle" font-weight="400">0</text>
+<text x="801.0" y="495.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#1b2f44" text-anchor="middle" font-weight="700">Total: 0</text>
+<text x="205.0" y="459.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" fill="#60788a" text-anchor="middle" font-weight="400">Charge: 0</text>
+</svg>

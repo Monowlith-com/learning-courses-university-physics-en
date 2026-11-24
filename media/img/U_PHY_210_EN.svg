@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Phasor Addition in the Complex Plane">
+<title>Phasor Addition in the Complex Plane</title>
+<desc>Cartesian components and resultant</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Phasor Addition in the Complex Plane</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Cartesian components and resultant</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<line x1="110.0" y1="468.0" x2="750.0" y2="468.0" stroke="#25313b" stroke-width="2" marker-end="url(#dark)"/>
+<line x1="320.0" y1="540.0" x2="320.0" y2="142.0" stroke="#25313b" stroke-width="2" marker-end="url(#dark)"/>
+<text x="764.0" y="501.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="400">Re</text>
+<text x="308.0" y="132.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="400">Im</text>
+<line x1="320.0" y1="468.0" x2="530.0" y2="468.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<line x1="530.0" y1="468.0" x2="530.0" y2="188.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<line x1="320.0" y1="468.0" x2="530.0" y2="188.0" stroke="#17698e" stroke-width="5" marker-end="url(#blue)"/>
+<text x="425.0" y="502.0" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#af542b" text-anchor="middle" font-weight="400">3</text>
+<text x="556.0" y="328.0" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#af542b" text-anchor="start" font-weight="400">4i</text>
+<text x="422.0" y="265.0" font-family="Arial, Helvetica, sans-serif" font-size="27" fill="#17698e" text-anchor="start" font-weight="700">3 + 4i</text>
+<path d="M 402 468 A 82 82 0 0 0 369 403" stroke="#6a7580" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="421.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="start" font-weight="400">φ</text>
+<text x="640.0" y="210.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#17698e" text-anchor="start" font-weight="400">|z| = 5</text>
+<text x="640.0" y="254.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="start" font-weight="400">φ ≈ 53.13°</text>
+<text x="640.0" y="305.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6a7580" text-anchor="start" font-weight="400">Magnitude and phase</text>
+</svg>

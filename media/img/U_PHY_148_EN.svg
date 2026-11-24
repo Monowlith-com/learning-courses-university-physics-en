@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Three observed points and a fitted line with vertical residual markers">
+<title>Least-Squares Line and Residuals</title>
+<desc>Vertical differences from the line are residuals</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Least-Squares Line and Residuals</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">Vertical differences from the line are residuals</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<line x1="154.0" y1="485.0" x2="814.0" y2="485.0" stroke="#243747" stroke-width="2"/>
+<line x1="154.0" y1="485.0" x2="154.0" y2="193.0" stroke="#243747" stroke-width="2"/>
+<text x="835.0" y="515.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#243747" text-anchor="start" font-weight="400">x</text>
+<text x="119.0" y="201.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#243747" text-anchor="start" font-weight="400">y</text>
+<polyline points="175.0,433.1 695.0,262.9" stroke="#126da1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="215.0" y1="444.0" x2="215.0" y2="420.0" stroke="#b45e29" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="215.0" cy="444.0" r="8" fill="#167a60"/>
+<text x="215.0" y="510.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#243747" text-anchor="middle" font-weight="400">0</text>
+<line x1="435.0" y1="229.0" x2="435.0" y2="348.0" stroke="#b45e29" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="435.0" cy="229.0" r="8" fill="#167a60"/>
+<text x="435.0" y="510.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#243747" text-anchor="middle" font-weight="400">1</text>
+<line x1="655.0" y1="302.0" x2="655.0" y2="276.0" stroke="#b45e29" stroke-width="3" stroke-dasharray="6 4"/>
+<circle cx="655.0" cy="302.0" r="8" fill="#167a60"/>
+<text x="655.0" y="510.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#243747" text-anchor="middle" font-weight="400">2</text>
+<text x="476.0" y="157.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#b45e29" text-anchor="middle" font-weight="400">Residuals: vertical differences</text>
+<text x="490.0" y="557.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#243747" text-anchor="middle" font-weight="700">y = 7/6 + x/2</text>
+</svg>

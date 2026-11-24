@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Ellipse of the oscillator showing the enclosed action area">
+<title>Action Variable as Phase Area</title>
+<desc>The enclosed area equals 2πJ.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#096b85"/></marker></defs>
+<rect width="960" height="600" fill="white"/>
+<text x="42.00" y="47.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="start" font-weight="700" fill="#233241">Action Variable as Phase Area</text>
+<text x="42.00" y="77.00" font-family="Arial,Helvetica,sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#65717c">The enclosed area equals 2πJ.</text>
+<line x1="42.00" y1="104.00" x2="918.00" y2="104.00" stroke="#bcc7cc" stroke-width="1"/>
+<line x1="140.00" y1="325.00" x2="848.00" y2="325.00" stroke="#233241" stroke-width="2"/>
+<line x1="479.00" y1="147.00" x2="479.00" y2="516.00" stroke="#233241" stroke-width="2"/>
+<ellipse cx="479" cy="325" rx="243" ry="150" fill="#eaf1f0" stroke="#096b85" stroke-width="4"/>
+<line x1="236.00" y1="325.00" x2="722.00" y2="325.00" stroke="#65717c" stroke-width="1" stroke-dasharray="6 6"/>
+<line x1="479.00" y1="175.00" x2="479.00" y2="475.00" stroke="#65717c" stroke-width="1" stroke-dasharray="6 6"/>
+<text x="479.00" y="303.00" font-family="Arial,Helvetica,sans-serif" font-size="27" text-anchor="middle" font-weight="700" fill="#096b85">A = 2πJ</text>
+<text x="736.00" y="314.00" font-family="Arial,Helvetica,sans-serif" font-size="22" text-anchor="start" font-weight="400" fill="#233241">q</text>
+<text x="494.00" y="153.00" font-family="Arial,Helvetica,sans-serif" font-size="22" text-anchor="start" font-weight="400" fill="#233241">p</text>
+<text x="480.00" y="551.00" font-family="Arial,Helvetica,sans-serif" font-size="25" text-anchor="middle" font-weight="400" fill="#c66938">J = E / ω</text>
+</svg>

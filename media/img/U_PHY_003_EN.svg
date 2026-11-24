@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg role="img" aria-label="Closed parameter-space path of a spin on a sphere and the enclosed solid angle." xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="396pt" viewBox="0 0 720 396" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-21T03:41:08.392930</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 396 
+L 720 396 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 360 311.868679 
+C 387.741245 311.868679 414.350015 300.846966 433.966038 281.230943 
+C 453.58206 261.614921 464.603774 235.006151 464.603774 207.264906 
+C 464.603774 179.523661 453.58206 152.91489 433.966038 133.298868 
+C 414.350015 113.682846 387.741245 102.661132 360 102.661132 
+C 332.258755 102.661132 305.649985 113.682846 286.033962 133.298868 
+C 266.41794 152.91489 255.396226 179.523661 255.396226 207.264906 
+C 255.396226 235.006151 266.41794 261.614921 286.033962 281.230943 
+C 305.649985 300.846966 332.258755 311.868679 360 311.868679 
+L 360 311.868679 
+z
+" clip-path="url(#p8b605dea63)" style="fill: none; stroke: #838b94; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 360 204.126792 
+C 384.024623 204.126792 407.068494 201.702015 424.056468 197.386491 
+C 441.044441 193.070966 450.589525 187.217036 450.589525 181.113962 
+C 450.589525 175.010888 441.044441 169.156959 424.056468 164.841434 
+C 407.068494 160.525909 384.024623 158.101132 360 158.101132 
+C 335.975377 158.101132 312.931506 160.525909 295.943532 164.841434 
+C 278.955559 169.156959 269.410475 175.010888 269.410475 181.113962 
+C 269.410475 187.217036 278.955559 193.070966 295.943532 197.386491 
+C 312.931506 201.702015 335.975377 204.126792 360 204.126792 
+z
+" clip-path="url(#p8b605dea63)" style="fill: #d8edf0; opacity: 0.8; stroke: #1b6978; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m26c2a9bbef" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #000000"/>
+    </defs>
+    <g clip-path="url(#p8b605dea63)">
+     <use xlink:href="#m26c2a9bbef" x="360" y="207.264906" style="stroke: #000000"/>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 360 207.264906 
+L 445.775094 134.042264 
+" clip-path="url(#p8b605dea63)" style="fill: none; stroke: #646b73; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 431.215944 134.622616 
+Q 418.746325 149.261634 407.001692 163.049538 
+" style="fill: none; stroke: #a33f44; stroke-linecap: round"/>
+    <path d="M 411.529629 161.126576 
+L 407.001692 163.049538 
+L 408.180085 158.273411 
+" style="fill: none; stroke: #a33f44; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a33f44" x="417.532075" y="128.812075" transform="rotate(-0 417.532075 128.812075)">θ = 60°</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b6978" x="260.626415" y="335.927547" transform="rotate(-0 260.626415 335.927547)">Ω = π sr</text>
+   </g>
+  </g>
+  <g id="line2d_2">
+   <path d="M 54 44.352 
+L 666 44.352 
+" style="fill: none; stroke: #d4d7db; stroke-linecap: square"/>
+  </g>
+  <g id="text_3">
+   <text style="font-weight: 600; font-size: 15.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #181b21" x="54" y="29.7" transform="rotate(-0 54 29.7)">Adiabatic theorem</text>
+  </g>
+  <g id="text_4">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #646b73" x="54" y="373.428" transform="rotate(-0 54 373.428)">Original illustration · schematic model</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8b605dea63">
+   <rect x="208.324528" y="71.28" width="303.350943" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>

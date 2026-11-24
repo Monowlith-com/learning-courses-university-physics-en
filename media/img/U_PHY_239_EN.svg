@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Energy bar chart showing initial and final total rest energies for fusion with Q value">
+<title>Mass Difference and Fusion Reaction</title>
+<desc>D + T → He-4 + n; Q ≈ 17.59 MeV</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="#ffffff"/>
+<text x="40.0" y="46.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#1b2f44" text-anchor="start" font-weight="700">Mass Difference and Fusion Reaction</text>
+<text x="40.0" y="77.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#60788a" text-anchor="start" font-weight="400">D + T → He-4 + n; Q ≈ 17.59 MeV</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#cbd9e3" stroke-width="2"/>
+<text x="258.0" y="164.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#1575a9" text-anchor="middle" font-weight="700">Before reaction</text>
+<text x="707.0" y="164.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#168270" text-anchor="middle" font-weight="700">After reaction</text>
+<line x1="490.0" y1="144.0" x2="490.0" y2="525.0" stroke="#cbd9e3" stroke-width="2"/>
+<rect x="158.0" y="207.0" width="200.0" height="280.0" rx="9" fill="#d7ebf5" stroke="#1575a9"/>
+<rect x="608.0" y="231.0" width="200.0" height="256.0" rx="9" fill="#d7f1e9" stroke="#168270"/>
+<text x="257.0" y="300.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" fill="#1b2f44" text-anchor="middle" font-weight="700">D + T</text>
+<text x="708.0" y="300.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" fill="#1b2f44" text-anchor="middle" font-weight="700">⁴He + n</text>
+<line x1="383.0" y1="207.0" x2="557.0" y2="207.0" stroke="#ca6732" stroke-width="3" stroke-dasharray="6 6"/>
+<line x1="383.0" y1="231.0" x2="557.0" y2="231.0" stroke="#ca6732" stroke-width="3" stroke-dasharray="6 6"/>
+<text x="470.0" y="187.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" fill="#ca6732" text-anchor="middle" font-weight="700">ΔE</text>
+<text x="472.0" y="358.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#ca6732" text-anchor="middle" font-weight="400">Q ≈ 17.59 MeV</text>
+<text x="475.0" y="551.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#60788a" text-anchor="middle" font-weight="400">Energy basis: rest energy</text>
+</svg>

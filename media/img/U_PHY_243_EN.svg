@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="A manifest links raw data, metadata and analysis code to results.">
+<title>Relationship among raw data, metadata, code and results</title>
+<desc>A manifest links raw data, metadata and analysis code to results.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="43" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#263746" text-anchor="start" font-weight="700">Relationship among raw data,</text>
+<text x="40" y="74" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" fill="#263746" text-anchor="start" font-weight="700">metadata, code and results</text>
+<text x="40" y="111" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">A manifest links raw data, metadata and analysis code to results.</text>
+<line x1="40" y1="132" x2="920" y2="132" stroke="#d9dfe4" stroke-width="2"/>
+<rect x="45" y="180" width="215" height="115" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f8fafb"/>
+<text x="152.5" y="224" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="middle" font-weight="700">Raw data</text>
+<text x="152.5" y="257" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#657581" text-anchor="middle" font-weight="400">CSV + units</text>
+<rect x="370" y="180" width="215" height="115" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f8fafb"/>
+<text x="477.5" y="224" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="middle" font-weight="700">Metadata</text>
+<text x="477.5" y="257" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#657581" text-anchor="middle" font-weight="400">Instrument + time</text>
+<rect x="695" y="180" width="215" height="115" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f8fafb"/>
+<text x="802.5" y="224" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="middle" font-weight="700">Analysis</text>
+<text x="802.5" y="257" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" fill="#657581" text-anchor="middle" font-weight="400">Code + version</text>
+<line x1="150" y1="295" x2="150" y2="369" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="144.8,358.2 150.0,369.0 155.2,358.2"/>
+<line x1="477" y1="295" x2="477" y2="369" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="471.8,358.2 477.0,369.0 482.2,358.2"/>
+<line x1="800" y1="295" x2="800" y2="369" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="794.8,358.2 800.0,369.0 805.2,358.2"/>
+<rect x="180" y="382" width="600" height="94" rx="6" stroke="#257a56" stroke-width="2" fill="#f5faf7"/>
+<text x="480" y="420" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#263746" text-anchor="middle" font-weight="700">Manifest + checksums + results</text>
+<text x="480" y="448" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="middle" font-weight="400">Access rules and provenance recorded</text>
+</svg>

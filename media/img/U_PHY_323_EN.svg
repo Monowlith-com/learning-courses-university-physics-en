@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Three illustrative energy levels split linearly as the field increases.">
+<title>Magnetic sublevels in the linear Zeeman model</title>
+<desc>Three illustrative energy levels split linearly as the field increases.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Magnetic sublevels in the linear Zeeman model</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">Three illustrative energy levels split linearly as the field increases.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<text x="255" y="150" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#263746" text-anchor="middle" font-weight="400">B = 0</text>
+<text x="724" y="150" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" fill="#263746" text-anchor="middle" font-weight="400">B &gt; 0</text>
+<line x1="116" y1="331" x2="396" y2="331" stroke="#176b9b" stroke-width="5"/>
+<line x1="585" y1="206" x2="841" y2="206" stroke="#176b9b" stroke-width="5"/>
+<text x="853" y="212" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="start" font-weight="400">m = +1</text>
+<line x1="585" y1="331" x2="841" y2="331" stroke="#257a56" stroke-width="5"/>
+<text x="853" y="337" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="start" font-weight="400">m = 0</text>
+<line x1="585" y1="456" x2="841" y2="456" stroke="#176b9b" stroke-width="5"/>
+<text x="853" y="462" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#263746" text-anchor="start" font-weight="400">m = −1</text>
+<line x1="420" y1="331" x2="560" y2="331" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="549.2,336.2 560.0,331.0 549.2,325.8"/>
+<text x="488" y="306" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#657581" text-anchor="middle" font-weight="400">Field on</text>
+<text x="256" y="378" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#657581" text-anchor="middle" font-weight="400">degenerate</text>
+<text x="717" y="522" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#657581" text-anchor="middle" font-weight="400">linear splitting</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Flowchart linking setup, raw observations, analysis, uncertainty budget and reporting">
+<title>Reproducible Measurement Report</title>
+<desc>From experimental setup and analysis to a qualified result statement</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+<text x="36.0" y="48.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" fill="#243747" text-anchor="start" font-weight="700">Reproducible Measurement Report</text>
+<text x="36.0" y="78.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#62717c" text-anchor="start" font-weight="400">From experimental setup and analysis to a qualified result statement</text>
+<line x1="36.0" y1="99.0" x2="924.0" y2="99.0" stroke="#d2d8de" stroke-width="2"/>
+<rect x="64" y="207" width="232" height="85" rx="9" fill="white" stroke="#d2d8de" stroke-width="2"/>
+<text x="180.0" y="241.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">Setup and</text>
+<text x="180.0" y="265.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">calibration</text>
+<rect x="375" y="207" width="232" height="85" rx="9" fill="white" stroke="#d2d8de" stroke-width="2"/>
+<text x="491.0" y="252.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">Raw observations</text>
+<rect x="675" y="207" width="232" height="85" rx="9" fill="white" stroke="#d2d8de" stroke-width="2"/>
+<text x="791.0" y="252.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">Analysis</text>
+<rect x="197" y="421" width="232" height="85" rx="9" fill="white" stroke="#d2d8de" stroke-width="2"/>
+<text x="313.0" y="466.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">Uncertainty budget</text>
+<rect x="538" y="421" width="232" height="85" rx="9" fill="white" stroke="#d2d8de" stroke-width="2"/>
+<text x="654.0" y="466.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#243747" text-anchor="middle" font-weight="700">Result report</text>
+<line x1="296.0" y1="249.0" x2="371.0" y2="249.0" stroke="#126da1" stroke-width="3"/><polyline points="361.3,254.3 371.0,249.0 361.3,243.7" stroke="#126da1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="607.0" y1="249.0" x2="671.0" y2="249.0" stroke="#126da1" stroke-width="3"/><polyline points="661.3,254.3 671.0,249.0 661.3,243.7" stroke="#126da1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="770.0" y1="294.0" x2="770.0" y2="348.0" stroke="#126da1" stroke-width="3"/>
+<line x1="770.0" y1="348.0" x2="313.0" y2="348.0" stroke="#126da1" stroke-width="3"/>
+<line x1="313.0" y1="348.0" x2="313.0" y2="419.0" stroke="#126da1" stroke-width="3"/><polyline points="307.7,409.3 313.0,419.0 318.3,409.3" stroke="#126da1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<line x1="429.0" y1="464.0" x2="537.0" y2="464.0" stroke="#167a60" stroke-width="3"/><polyline points="527.3,469.3 537.0,464.0 527.3,458.7" stroke="#167a60" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<text x="475.0" y="337.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#62717c" text-anchor="middle" font-weight="400">Documented chain</text>
+<text x="482.0" y="563.0" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#62717c" text-anchor="middle" font-weight="400">Preserve original data and decisions</text>
+</svg>

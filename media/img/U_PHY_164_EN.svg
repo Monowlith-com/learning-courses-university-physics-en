@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Wave arrows at an air–glass boundary showing reflected and transmitted intensity fractions">
+<title>Reflection at a Material Interface</title>
+<desc>Normal incidence: incident, reflected and transmitted waves.</desc>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" viewBox="0 0 8 8"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="43.0" y="48.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" text-anchor="start" font-weight="700" fill="#142b3e">Reflection at a Material Interface</text>
+<text x="43.0" y="79.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" text-anchor="start" font-weight="400" fill="#627786">Normal incidence: incident, reflected and transmitted waves.</text>
+<line x1="43.0" y1="107.0" x2="917.0" y2="107.0" stroke="#dce5e8" stroke-width="1"/>
+<rect x="535" y="141" width="7" height="382" rx="0" fill="#086d92" stroke="#086d92" stroke-width="0"/>
+<rect x="543" y="141" width="354" height="382" rx="0" fill="#e8f3f8" stroke="#e8f3f8" stroke-width="0"/>
+<text x="229.0" y="160.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="400" fill="#1d3346">Air n≈1</text>
+<text x="715.0" y="160.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" text-anchor="middle" font-weight="400" fill="#1d3346">Glass n≈1.5</text>
+<line x1="178.0" y1="252.0" x2="517.0" y2="252.0" stroke="#086d92" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="554.0" y1="252.0" x2="848.0" y2="252.0" stroke="#237f65" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="178.0" y1="369.0" x2="517.0" y2="369.0" stroke="#086d92" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="554.0" y1="369.0" x2="848.0" y2="369.0" stroke="#237f65" stroke-width="3" marker-end="url(#arr)"/>
+<line x1="516.0" y1="427.0" x2="203.0" y2="427.0" stroke="#b96232" stroke-width="3" marker-end="url(#arr)"/>
+<text x="178.0" y="239.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#086d92">Incident</text>
+<text x="560.0" y="239.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#237f65">Transmitted</text>
+<text x="207.0" y="451.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" text-anchor="start" font-weight="400" fill="#b96232">Reflected</text>
+<text x="480.0" y="561.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" text-anchor="middle" font-weight="400" fill="#1d3346">R = ((n₁−n₂)/(n₁+n₂))² = 4 %</text>
+</svg>

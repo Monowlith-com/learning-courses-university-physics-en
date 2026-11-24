@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img" aria-label="Elliptical level sets of a two-dimensional quadratic action with Gaussian widths differing in two directions.">
+<rect x="0" y="0" width="900" height="450" rx="0" fill="#fff" stroke="none" stroke-width="1"/>
+<text x="42.0" y="50.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#223547" text-anchor="start">Quadratic field action</text>
+<line x1="42.00" y1="68.00" x2="858.00" y2="68.00" stroke="#cbd5df" stroke-width="1"/>
+<text x="125.0" y="115.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="600" fill="#223547" text-anchor="start">Level sets of a quadratic action</text>
+<line x1="160.00" y1="290.00" x2="770.00" y2="290.00" stroke="#223547" stroke-width="2"/>
+<line x1="450.00" y1="157.00" x2="450.00" y2="405.00" stroke="#223547" stroke-width="2"/>
+<ellipse cx="450" cy="290" rx="230" ry="105" fill="none" stroke="#24659b" stroke-width="2"/>
+<ellipse cx="450" cy="290" rx="175" ry="80" fill="none" stroke="#24659b" stroke-width="2"/>
+<ellipse cx="450" cy="290" rx="115" ry="52" fill="none" stroke="#24659b" stroke-width="2"/>
+<ellipse cx="450" cy="290" rx="60" ry="27" fill="none" stroke="#24659b" stroke-width="2"/>
+<circle cx="450" cy="290" r="4" fill="#bf642b" stroke="#bf642b" stroke-width="2"/>
+<text x="760.0" y="275.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#223547" text-anchor="start">x₁</text>
+<text x="465.0" y="170.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#223547" text-anchor="start">x₂</text>
+<text x="140.0" y="410.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#596b7c" text-anchor="start">Larger width along x₁</text>
+</svg>

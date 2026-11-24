@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two Linear Equations">
+<title>Two Linear Equations</title>
+<desc>Intersection determines the solution</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Two Linear Equations</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Intersection determines the solution</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<line x1="150.0" y1="515.0" x2="760.0" y2="515.0" stroke="#25313b" stroke-width="2" marker-end="url(#dark)"/>
+<line x1="150.0" y1="515.0" x2="150.0" y2="142.0" stroke="#25313b" stroke-width="2" marker-end="url(#dark)"/>
+<text x="770.0" y="540.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">x</text>
+<text x="132.0" y="135.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">y</text>
+<line x1="150.0" y1="510.0" x2="150.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="150.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">0</text>
+<line x1="252.0" y1="510.0" x2="252.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="252.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">1</text>
+<line x1="354.0" y1="510.0" x2="354.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="354.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">2</text>
+<line x1="456.0" y1="510.0" x2="456.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="456.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">3</text>
+<line x1="558.0" y1="510.0" x2="558.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="558.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">4</text>
+<line x1="660.0" y1="510.0" x2="660.0" y2="520.0" stroke="#25313b" stroke-width="2"/>
+<text x="660.0" y="538.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="middle" font-weight="400">5</text>
+<line x1="145.0" y1="463.0" x2="155.0" y2="463.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="468.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">1</text>
+<line x1="145.0" y1="411.0" x2="155.0" y2="411.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="416.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">2</text>
+<line x1="145.0" y1="359.0" x2="155.0" y2="359.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="364.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">3</text>
+<line x1="145.0" y1="307.0" x2="155.0" y2="307.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="312.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">4</text>
+<line x1="145.0" y1="255.0" x2="155.0" y2="255.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">5</text>
+<line x1="145.0" y1="203.0" x2="155.0" y2="203.0" stroke="#25313b" stroke-width="2"/>
+<text x="135.0" y="208.0" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#25313b" text-anchor="end" font-weight="400">6</text>
+<line x1="150.0" y1="255.0" x2="660.0" y2="515.0" stroke="#17698e" stroke-width="4"/>
+<line x1="201.0" y1="515.0" x2="507.0" y2="203.0" stroke="#af542b" stroke-width="4"/>
+<circle cx="354.0" cy="359.0" r="7.0" fill="#25313b" stroke="white" stroke-width="2"/>
+<text x="369.0" y="341.0" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#25313b" text-anchor="start" font-weight="700">(2, 3)</text>
+<text x="685.0" y="213.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#17698e" text-anchor="start" font-weight="400">x + y = 5</text>
+<text x="685.0" y="254.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#af542b" text-anchor="start" font-weight="400">2x − y = 1</text>
+<text x="685.0" y="310.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">Solution:</text>
+<text x="685.0" y="341.0" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#25313b" text-anchor="start" font-weight="400">x = 2, y = 3</text>
+</svg>

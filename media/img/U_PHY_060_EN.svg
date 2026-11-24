@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img" aria-label="Polar-coordinate diagram with radius, angle, circular arc and tangent on a flat plane.">
+<rect x="0" y="0" width="900" height="450" rx="0" fill="#fff" stroke="none" stroke-width="1"/>
+<text x="42.0" y="50.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#223547" text-anchor="start">Coordinates and connection</text>
+<line x1="42.00" y1="68.00" x2="858.00" y2="68.00" stroke="#cbd5df" stroke-width="1"/>
+<line x1="140.00" y1="298.00" x2="685.00" y2="298.00" stroke="#b6c4ce" stroke-width="2"/>
+<line x1="380.00" y1="395.00" x2="380.00" y2="105.00" stroke="#b6c4ce" stroke-width="2"/>
+<circle cx="380" cy="298" r="142" fill="none" stroke="#becdd8" stroke-width="2"/>
+<line x1="380.00" y1="298.00" x2="494.88" y2="214.53" stroke="#24659b" stroke-width="3"/><polygon points="494.9,214.5 489.0,225.0 483.1,216.9" fill="#24659b"/>
+<line x1="494.88" y1="214.53" x2="450.80" y2="153.86" stroke="#bf642b" stroke-width="3"/><polygon points="450.8,153.9 461.3,159.7 453.2,165.6" fill="#bf642b"/>
+<polyline fill="none" points="427.00,298.00 426.99,297.16 426.97,296.31 426.93,295.47 426.88,294.63 426.81,293.79 426.73,292.95 426.63,292.11 426.52,291.27 426.39,290.44 426.24,289.61 426.09,288.78 425.91,287.95 425.73,287.13 425.52,286.31 425.31,285.50 425.07,284.68 424.83,283.88 424.57,283.08 424.29,282.28 424.00,281.49 423.70,280.70 423.38,279.92 423.05,279.14 422.70,278.37 422.35,277.61 421.97,276.85 421.59,276.10 421.19,275.36 420.77,274.62 420.35,273.89 419.91,273.17 419.46,272.46 418.99,271.76 418.51,271.06 418.02,270.37" stroke="#247e80" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="446.0" y="281.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" fill="#247e80" text-anchor="start">φ</text>
+<text x="450.0" y="232.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="400" fill="#24659b" text-anchor="start">r</text>
+<text x="584.9" y="149.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#bf642b" text-anchor="start">Tangent</text>
+<text x="130.0" y="125.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="600" fill="#223547" text-anchor="start">Flat plane in polar coordinates</text>
+<text x="630.0" y="345.0" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" fill="#596b7c" text-anchor="middle">ds² = dr² + r²dφ²</text>
+</svg>

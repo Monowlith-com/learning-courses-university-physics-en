@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Valence band, conduction band and energy gap with intrinsic and n-type Fermi levels marked">
+<title>Semiconductor Bands and Fermi Level</title>
+<desc>Doping shifts the Fermi level inside the band gap.</desc>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="48.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Semiconductor Bands and Fermi Level</text>
+<text x="40.0" y="79.0" fill="#5a7183" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Doping shifts the Fermi level inside the band gap.</text>
+<line x1="40.0" y1="99.0" x2="920.0" y2="99.0" stroke="#ccd9e3" stroke-width="1" />
+<text x="140.0" y="151.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">Intrinsic</text>
+<text x="582.0" y="151.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="700" text-anchor="start">n-doped</text>
+<line x1="482.0" y1="155.0" x2="482.0" y2="504.0" stroke="#ccd9e3" stroke-width="2" />
+<rect x="122.0" y="206.0" width="260.0" height="67.0" rx="4" fill="#d3e7f4" stroke="#1575a9"/>
+<rect x="122.0" y="402.0" width="260.0" height="73.0" rx="4" fill="#ebdacf" stroke="#d87336"/>
+<line x1="122.0" y1="328.0" x2="382.0" y2="328.0" stroke="#11846c" stroke-width="3" stroke-dasharray="7 6" />
+<text x="252.0" y="250.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">Ec</text>
+<text x="252.0" y="447.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">Ev</text>
+<text x="252.0" y="312.0" fill="#11846c" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">EF</text>
+<rect x="582.0" y="206.0" width="260.0" height="67.0" rx="4" fill="#d3e7f4" stroke="#1575a9"/>
+<rect x="582.0" y="402.0" width="260.0" height="73.0" rx="4" fill="#ebdacf" stroke="#d87336"/>
+<line x1="582.0" y1="287.0" x2="842.0" y2="287.0" stroke="#11846c" stroke-width="3" stroke-dasharray="7 6" />
+<text x="712.0" y="250.0" fill="#1575a9" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">Ec</text>
+<text x="712.0" y="447.0" fill="#d87336" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="middle">Ev</text>
+<text x="712.0" y="306.0" fill="#11846c" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">EF</text>
+<text x="484.0" y="550.0" fill="#1b2f44" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="middle">Band gap Eg</text>
+<line x1="882.0" y1="274.0" x2="882.0" y2="402.0" stroke="#8057a4" stroke-width="2" />
+<text x="898.0" y="343.0" fill="#8057a4" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Eg</text>
+</svg>

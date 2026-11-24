@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Workflow from a prespecified question to declared interpretation.">
+<title>Research workflow with blinded analysis</title>
+<desc>Workflow from a prespecified question to declared interpretation.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" stroke="#fff" stroke-width="2" fill="#fff"/>
+<text x="40" y="54" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" fill="#263746" text-anchor="start" font-weight="700">Research workflow with blinded analysis</text>
+<text x="40" y="84" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" fill="#657581" text-anchor="start" font-weight="400">Workflow from a prespecified question to declared interpretation.</text>
+<line x1="40" y1="104" x2="920" y2="104" stroke="#d9dfe4" stroke-width="2"/>
+<rect x="70" y="175" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="190.0" y="232" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Research question</text>
+<rect x="365" y="175" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="485.0" y="232" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Analysis plan</text>
+<rect x="660" y="175" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="780.0" y="232" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Data acquisition</text>
+<rect x="70" y="365" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="190.0" y="422" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Blinded analysis</text>
+<rect x="365" y="365" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="485.0" y="422" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Unblinding</text>
+<rect x="660" y="365" width="240" height="100" rx="6" stroke="#d9dfe4" stroke-width="2" fill="#f7f9fa"/>
+<text x="780.0" y="422" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#263746" text-anchor="middle" font-weight="700">Interpretation</text>
+<line x1="310" y1="225" x2="360" y2="225" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="349.2,230.2 360.0,225.0 349.2,219.8"/>
+<line x1="605" y1="225" x2="655" y2="225" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="644.2,230.2 655.0,225.0 644.2,219.8"/>
+<line x1="780" y1="275" x2="780" y2="315" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="774.8,304.2 780.0,315.0 785.2,304.2"/>
+<line x1="780" y1="315" x2="190" y2="315" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="200.8,309.8 190.0,315.0 200.8,320.2"/>
+<line x1="190" y1="315" x2="190" y2="359" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="184.8,348.2 190.0,359.0 195.2,348.2"/>
+<line x1="310" y1="415" x2="360" y2="415" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="349.2,420.2 360.0,415.0 349.2,409.8"/>
+<line x1="605" y1="415" x2="655" y2="415" stroke="#176b9b" stroke-width="3"/><polyline fill="none" stroke="#176b9b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" points="644.2,420.2 655.0,415.0 644.2,409.8"/>
+<text x="480" y="539" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#657581" text-anchor="middle" font-weight="400">Declare changes made after inspecting results</text>
+</svg>

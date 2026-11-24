@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two Independent Normal Modes">
+<title>Two Independent Normal Modes</title>
+<desc>Equal masses; arrows show instantaneous directions</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Two Independent Normal Modes</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Equal masses; arrows show instantaneous directions</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<line x1="70.0" y1="259.0" x2="120.0" y2="259.0" stroke="#25313b" stroke-width="4"/>
+<path d="M 120,259 l22,-15 l22,30 l22,-30 l22,30 l22,-15" stroke="#6a7580" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="230.0" y="230.0" width="72.0" height="58.0" rx="7" fill="#f3f6f8" stroke="#17698e" stroke-width="2"/>
+<line x1="302.0" y1="259.0" x2="377.0" y2="259.0" stroke="#6a7580" stroke-width="3"/>
+<rect x="380.0" y="230.0" width="72.0" height="58.0" rx="7" fill="#f3f6f8" stroke="#17698e" stroke-width="2"/>
+<path d="M 452,259 l22,-15 l22,30 l22,-30 l22,30 l22,-15" stroke="#6a7580" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="562.0" y1="259.0" x2="610.0" y2="259.0" stroke="#25313b" stroke-width="4"/>
+<line x1="266.0" y1="206.0" x2="321.0" y2="206.0" stroke="#17698e" stroke-width="4" marker-end="url(#blue)"/>
+<line x1="417.0" y1="206.0" x2="472.0" y2="206.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<text x="640.0" y="254.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="start" font-weight="700">in phase</text>
+<text x="640.0" y="290.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#17698e" text-anchor="start" font-weight="400">ω = √2 s⁻¹</text>
+<line x1="70.0" y1="442.0" x2="120.0" y2="442.0" stroke="#25313b" stroke-width="4"/>
+<path d="M 120,442 l22,-15 l22,30 l22,-30 l22,30 l22,-15" stroke="#6a7580" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="230.0" y="413.0" width="72.0" height="58.0" rx="7" fill="#f3f6f8" stroke="#17698e" stroke-width="2"/>
+<line x1="302.0" y1="442.0" x2="377.0" y2="442.0" stroke="#6a7580" stroke-width="3"/>
+<rect x="380.0" y="413.0" width="72.0" height="58.0" rx="7" fill="#f3f6f8" stroke="#17698e" stroke-width="2"/>
+<path d="M 452,442 l22,-15 l22,30 l22,-30 l22,30 l22,-15" stroke="#6a7580" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="562.0" y1="442.0" x2="610.0" y2="442.0" stroke="#25313b" stroke-width="4"/>
+<line x1="266.0" y1="389.0" x2="321.0" y2="389.0" stroke="#17698e" stroke-width="4" marker-end="url(#blue)"/>
+<line x1="417.0" y1="389.0" x2="362.0" y2="389.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<text x="640.0" y="437.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#25313b" text-anchor="start" font-weight="700">opposite phase</text>
+<text x="640.0" y="473.0" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#17698e" text-anchor="start" font-weight="400">ω = 2 s⁻¹</text>
+<text x="96.0" y="535.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6a7580" text-anchor="start" font-weight="400">Schematic spring–mass arrangement</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Source of neutral silver atoms, nonuniform magnetic field and two impact spots on a detector">
+<title>Stern–Gerlach Beam Splitting</title>
+<desc>A neutral silver-atom beam splits into two components in a magnetic-field gradient.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#086d92"/></marker></defs>
+<rect x="0" y="0" width="960" height="600" fill="#fff" stroke="#fff" stroke-width="0" rx="0"/>
+<text x="42.0" y="47.0" fill="#142b3e" font-family="DejaVu Sans,Arial,sans-serif" font-weight="700" font-size="26" text-anchor="start">Stern–Gerlach Beam Splitting</text>
+<text x="42.0" y="79.0" fill="#627786" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="16" text-anchor="start">A neutral silver-atom beam splits into two components in a magnetic-field gradient.</text>
+<line x1="42.0" y1="106.0" x2="918.0" y2="106.0" stroke="#dce5e8" stroke-width="1"/>
+<text x="80.0" y="184.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="19" text-anchor="start">Silver-atom source</text>
+<rect x="84" y="218" width="98" height="128" fill="#f2f7f7" stroke="#dce5e8" stroke-width="1" rx="5"/>
+<circle cx="178" cy="284" r="8" fill="#086d92" stroke="#086d92" stroke-width="0"/>
+<line x1="187.0" y1="284.0" x2="333.0" y2="284.0" stroke="#086d92" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="328" y="209" width="222" height="152" fill="#f4f7f8" stroke="#dce5e8" stroke-width="1" rx="5"/>
+<text x="439.0" y="196.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="20" text-anchor="middle">Field gradient</text>
+<text x="438.0" y="254.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="28" text-anchor="middle">N</text>
+<text x="438.0" y="330.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="28" text-anchor="middle">S</text>
+<polyline points="552.0,284.0 616.0,266.0 688.0,215.0 802.0,199.0" fill="none" stroke="#086d92" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="552.0,284.0 616.0,302.0 688.0,353.0 802.0,369.0" fill="none" stroke="#b96232" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="810.0" y1="183.0" x2="810.0" y2="386.0" stroke="#1d3346" stroke-width="3"/>
+<circle cx="810" cy="199" r="8" fill="#086d92" stroke="#086d92" stroke-width="0"/>
+<circle cx="810" cy="369" r="8" fill="#b96232" stroke="#b96232" stroke-width="0"/>
+<text x="830.0" y="199.0" fill="#086d92" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">+</text>
+<text x="830.0" y="378.0" fill="#b96232" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="start">−</text>
+<text x="808.0" y="432.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="18" text-anchor="middle">Detector</text>
+<text x="477.0" y="527.0" fill="#1d3346" font-family="DejaVu Sans,Arial,sans-serif" font-weight="400" font-size="24" text-anchor="middle">μz = ±μB</text>
+</svg>

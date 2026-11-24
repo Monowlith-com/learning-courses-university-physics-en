@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Four-by-four grid of configurations of four spins; six highlighted with two up-spins">
+<title>Multiplicity of Four Two-State Units</title>
+<desc>Six of sixteen configurations contain exactly two up-spins.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white"/>
+<text x="39.0" y="44.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Multiplicity of Four Two-State Units</text>
+<text x="40.0" y="75.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">Six of sixteen configurations contain exactly two up-spins.</text>
+<line x1="40.0" y1="96.0" x2="920.0" y2="96.0" stroke="#d8e3eb" stroke-width="1" />
+<rect x="95" y="146" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="183.0" y="188.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↓↓↓</text>
+<rect x="293" y="146" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="381.0" y="188.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↓↓↑</text>
+<rect x="491" y="146" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="579.0" y="188.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↓↑↓</text>
+<rect x="689" y="146" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="777.0" y="188.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↓↑↑</text>
+<rect x="95" y="233" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="183.0" y="275.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↑↓↓</text>
+<rect x="293" y="233" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="381.0" y="275.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↑↓↑</text>
+<rect x="491" y="233" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="579.0" y="275.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↑↑↓</text>
+<rect x="689" y="233" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="777.0" y="275.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↓↑↑↑</text>
+<rect x="95" y="320" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="183.0" y="362.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↓↓↓</text>
+<rect x="293" y="320" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="381.0" y="362.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↓↓↑</text>
+<rect x="491" y="320" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="579.0" y="362.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↓↑↓</text>
+<rect x="689" y="320" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="777.0" y="362.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↓↑↑</text>
+<rect x="95" y="407" width="176" height="66" rx="4" fill="#e5f0f7" stroke="#1874a8"/>
+<text x="183.0" y="449.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↑↓↓</text>
+<rect x="293" y="407" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="381.0" y="449.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↑↓↑</text>
+<rect x="491" y="407" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="579.0" y="449.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↑↑↓</text>
+<rect x="689" y="407" width="176" height="66" rx="4" fill="#fff" stroke="#d8e3eb"/>
+<text x="777.0" y="449.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="31" font-weight="600" text-anchor="middle">↑↑↑↑</text>
+<text x="475.0" y="554.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">Exactly two up: 6 of 16</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Linear pixel-to-wavelength calibration with peak at 570 nanometres">
+<title>Wavelength calibration</title>
+<desc>Two reference lines and an unknown peak</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="#ffffff" stroke="#ffffff" stroke-width="0"/>
+<text x="34.0" y="49.0" text-anchor="start" font-size="26" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" fill="#1d3551">Wavelength calibration</text>
+<text x="34.0" y="82.0" text-anchor="start" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#627888">Two reference lines and an unknown peak</text>
+<line x1="34.0" y1="101.0" x2="925.0" y2="101.0" stroke="#bacbd5" stroke-width="1"/>
+<line x1="170.0" y1="499.0" x2="830.0" y2="499.0" stroke="#1d3551" stroke-width="3"/>
+<line x1="170.0" y1="499.0" x2="170.0" y2="150.0" stroke="#1d3551" stroke-width="3"/>
+<text x="110.0" y="162.0" text-anchor="start" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">λ / nm</text>
+<text x="820.0" y="532.0" text-anchor="start" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">Pixel</text>
+<circle cx="270.0" cy="434.5" r="7" fill="#2777a8" stroke="none"/>
+<line x1="270.0" y1="499.0" x2="270.0" y2="434.5" stroke="#2777a8" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="270.0" y="518.0" text-anchor="middle" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">100</text>
+<circle cx="770.0" cy="219.5" r="7" fill="#2777a8" stroke="none"/>
+<line x1="770.0" y1="499.0" x2="770.0" y2="219.5" stroke="#2777a8" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="770.0" y="518.0" text-anchor="middle" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">300</text>
+<circle cx="620.0" cy="284.0" r="7" fill="#c46b32" stroke="none"/>
+<line x1="620.0" y1="499.0" x2="620.0" y2="284.0" stroke="#c46b32" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="620.0" y="518.0" text-anchor="middle" font-size="15" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">240</text>
+<polyline points="170.0,477.5 182.5,472.1 195.0,466.8 207.5,461.4 220.0,456.0 232.5,450.6 245.0,445.2 257.5,439.9 270.0,434.5 282.5,429.1 295.0,423.8 307.5,418.4 320.0,413.0 332.5,407.6 345.0,402.2 357.5,396.9 370.0,391.5 382.5,386.1 395.0,380.8 407.5,375.4 420.0,370.0 432.5,364.6 445.0,359.2 457.5,353.9 470.0,348.5 482.5,343.1 495.0,337.8 507.5,332.4 520.0,327.0 532.5,321.6 545.0,316.2 557.5,310.9 570.0,305.5 582.5,300.1 595.0,294.8 607.5,289.4 620.0,284.0 632.5,278.6 645.0,273.2 657.5,267.9 670.0,262.5 682.5,257.1 695.0,251.8 707.5,246.4 720.0,241.0 732.5,235.6 745.0,230.2 757.5,224.9 770.0,219.5 782.5,214.1 795.0,208.8" fill="none" stroke="#237b64" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="266.0" y="421.5" text-anchor="start" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#2777a8">500 nm</text>
+<text x="778.0" y="226.5" text-anchor="start" font-size="16" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#2777a8">600 nm</text>
+<text x="634.0" y="274.0" text-anchor="start" font-size="18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#c46b32">570 nm</text>
+<text x="489.0" y="572.0" text-anchor="middle" font-size="19" font-family="DejaVu Sans, Arial, sans-serif" font-weight="400" fill="#1d3551">λ = 450 nm + (0.5 nm/pixel) · p</text>
+</svg>

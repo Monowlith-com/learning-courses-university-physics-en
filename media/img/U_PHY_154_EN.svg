@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Circulation Around a Circle">
+<title>Circulation Around a Circle</title>
+<desc>Positive traversal: counterclockwise</desc>
+<defs><marker id="blue" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#17698e"/></marker><marker id="orange" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#af542b"/></marker><marker id="dark" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0 0L7 3L0 6Z" fill="#25313b"/></marker></defs>
+<rect x="0.0" y="0.0" width="960.0" height="600.0" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<text x="40.0" y="52.0" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#25313b" text-anchor="start" font-weight="700">Circulation Around a Circle</text>
+<text x="40.0" y="84.0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#6a7580" text-anchor="start" font-weight="400">Positive traversal: counterclockwise</text>
+<line x1="40.0" y1="106.0" x2="920.0" y2="106.0" stroke="#b9c2ca" stroke-width="1"/>
+<line x1="114.0" y1="332.0" x2="690.0" y2="332.0" stroke="#6a7580" stroke-width="1" marker-end="url(#dark)"/>
+<line x1="360.0" y1="535.0" x2="360.0" y2="126.0" stroke="#6a7580" stroke-width="1" marker-end="url(#dark)"/>
+<circle cx="360.0" cy="332.0" r="151.0" fill="none" stroke="#17698e" stroke-width="4"/>
+<text x="695.0" y="350.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">x</text>
+<text x="343.0" y="129.0" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#25313b" text-anchor="start" font-weight="400">y</text>
+<line x1="511.0" y1="332.0" x2="511.0" y2="288.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<line x1="360.0" y1="181.0" x2="316.0" y2="181.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<line x1="209.0" y1="332.0" x2="209.0" y2="376.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<line x1="360.0" y1="483.0" x2="404.0" y2="483.0" stroke="#af542b" stroke-width="4" marker-end="url(#orange)"/>
+<text x="614.0" y="215.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="700">Field:</text>
+<text x="614.0" y="247.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="400">F = (−y, x)</text>
+<text x="614.0" y="320.0" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#25313b" text-anchor="start" font-weight="700">Circulation:</text>
+<text x="614.0" y="354.0" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#17698e" text-anchor="start" font-weight="400">∮ F · dr = 2π</text>
+<text x="614.0" y="401.0" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6a7580" text-anchor="start" font-weight="400">Orientation</text>
+</svg>

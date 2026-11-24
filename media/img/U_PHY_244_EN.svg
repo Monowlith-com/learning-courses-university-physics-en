@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="450" viewBox="0 0 900 450" role="img" aria-label="Data flow from immutable raw observations through calibration, processing and visualization to a reported finding with audit points.">
+<rect width="900" height="450" fill="#f8fafc"/>
+<text x="42" y="53" font-family="DejaVu Sans,Arial,sans-serif" font-size="28" font-weight="700" fill="#17273a" text-anchor="start">Traceable data flow</text>
+<rect x="38" y="164" width="172" height="91" rx="14" fill="white" stroke="#1964ad" stroke-width="2"/>
+<text x="124" y="215" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#17273a" text-anchor="middle">Raw data</text>
+<line x1="215" y1="210" x2="242" y2="210" stroke="#cf6338" stroke-width="4"/>
+<polygon points="242,210 233,204 233,216" fill="#cf6338"/>
+<rect x="252" y="164" width="172" height="91" rx="14" fill="white" stroke="#1964ad" stroke-width="2"/>
+<text x="338" y="215" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#17273a" text-anchor="middle">Calibration</text>
+<line x1="429" y1="210" x2="456" y2="210" stroke="#cf6338" stroke-width="4"/>
+<polygon points="456,210 447,204 447,216" fill="#cf6338"/>
+<rect x="466" y="164" width="172" height="91" rx="14" fill="white" stroke="#1964ad" stroke-width="2"/>
+<text x="552" y="215" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#17273a" text-anchor="middle">Processing</text>
+<line x1="643" y1="210" x2="670" y2="210" stroke="#cf6338" stroke-width="4"/>
+<polygon points="670,210 661,204 661,216" fill="#cf6338"/>
+<rect x="680" y="164" width="172" height="91" rx="14" fill="white" stroke="#1964ad" stroke-width="2"/>
+<text x="766" y="215" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="600" fill="#17273a" text-anchor="middle">Finding</text>
+<rect x="126" y="300" width="645" height="57" rx="12" fill="#15826f" opacity=".11"/>
+<text x="450" y="336" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="600" fill="#15826f" text-anchor="middle">Version, units and checks</text>
+<text x="450" y="410" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#4a5f73" text-anchor="middle">Trace each transformation</text>
+</svg>

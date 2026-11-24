@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-label="Two levels E plus and E minus diverging from E0 with increasing coupling parameter lambda">
+<title>Splitting of Degenerate Energy Levels</title>
+<desc>A weak coupling separates an initially degenerate level.</desc>
+<rect x="0" y="0" width="960" height="600" rx="0" fill="white" stroke="white"/>
+<text x="40.0" y="46.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" text-anchor="start">Splitting of Degenerate Energy Levels</text>
+<text x="40.0" y="76.0" fill="#61758a" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" text-anchor="start">A weak coupling separates an initially degenerate level.</text>
+<line x1="40.0" y1="98.0" x2="920.0" y2="98.0" stroke="#d8e3eb" stroke-width="1" />
+<line x1="115.0" y1="483.0" x2="869.0" y2="483.0" stroke="#25394b" stroke-width="2" />
+<line x1="112.0" y1="500.0" x2="112.0" y2="158.0" stroke="#25394b" stroke-width="2" />
+<text x="122.0" y="160.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">E</text>
+<text x="872.0" y="511.0" fill="#12314f" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" text-anchor="start">λ</text>
+<line x1="115.0" y1="315.0" x2="869.0" y2="315.0" stroke="#61758a" stroke-width="2" stroke-dasharray="6 6" />
+<line x1="120.0" y1="315.0" x2="819.0" y2="171.0" stroke="#1874a8" stroke-width="4" />
+<line x1="120.0" y1="315.0" x2="819.0" y2="459.0" stroke="#d97738" stroke-width="4" />
+<circle cx="120.0" cy="315.0" r="6" fill="#12314f"/>
+<text x="139.0" y="303.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">E₀</text>
+<text x="828.0" y="171.0" fill="#1874a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">E₊</text>
+<text x="828.0" y="457.0" fill="#d97738" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">E₋</text>
+<text x="485.0" y="544.0" fill="#25394b" font-family="DejaVu Sans,Arial,sans-serif" font-size="20" font-weight="400" text-anchor="middle">Coupling parameter λ</text>
+<line x1="720.0" y1="198.0" x2="720.0" y2="431.0" stroke="#8060a8" stroke-width="2" stroke-dasharray="6 5" />
+<text x="731.0" y="322.0" fill="#8060a8" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" text-anchor="start">2λv</text>
+</svg>
